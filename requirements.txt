@@ -1,0 +1,12 @@
+pandas
+matplotlib
+numpy
+Rbeast
+seaborn
+scikit-learn
+statsmodels 
+openpyxl
+datetime
+requests
+python-dotenv
+# pmdarima

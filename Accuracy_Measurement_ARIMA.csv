@@ -1,0 +1,1142 @@
+,r2_score,MAPE,RMSPE,MSE,description,category
+0,-1.900984950817429,0.11,0.12733792002376002,128227.89503722127,Monthly crude oil refinery inventories in United Kingdom in kt,crude_oil
+0,-0.7344889857351586,0.19,0.23529241338320767,32728.94598318843,Monthly crude oil terminal inventories in United Kingdom in kt,crude_oil
+0,-8.834486999250533,0.53,0.6067337495687072,124654.90231008739,Monthly crude oil offshore inventories in United Kingdom in kt,crude_oil
+0,-11.383876067858447,0.32,0.3423292590323258,2651487.910489212,Monthly crude oil inventories in United Kingdom in kt,crude_oil
+0,-1.7727476576766654,0.13,0.15301478106152225,23547.430487679278,Monthly gasoline inventories in United Kingdom in kt,oil_products
+0,-3.822902686195448,0.48,0.5463407445943991,254354.72938406764,Monthly kerosene inventories in United Kingdom in kt,oil_products
+0,-7.811210307698683,0.38,0.4127924097808635,374015.4239931376,Monthly diesel inventories in United Kingdom in kt,oil_products
+0,-13.073241367535562,0.47,0.5364379102098089,14666.42400735551,Monthly fuel oil inventories in United Kingdom in kt,oil_products
+0,-0.5730265175521863,0.08,0.10791079254567444,11963.865739432098,Monthly other oil products inventories in United Kingdom in kt,oil_products
+0,-13.156925757329688,0.76,0.7993224064160738,13962217.376901917,Monthly oil products inventories in United Kingdom in kt,oil_products
+0,-15.490670188122756,12.75,15.459202912454415,13352065.544852177,Monthly products net inventories in United Kingdom in kt,oil_products
+0,-7.58232431661216,0.17,0.18656651038725033,2894729.475707598,Monthly products total domestic inventories in United Kingdom in kt,oil_products
+0,-10.321842173389031,0.47,0.48895195914199296,21614633.150569733,Monthly products total inventories in United Kingdom in kt,oil_products
+0,-2.3757006377259393,0.15,0.1984577674865881,554118.9803976774,Monthly refinery runs in United Kingdom in kt,crude_oil
+0,-0.19369732545784424,0.15,0.18256735436942603,1475.2027816873335,Monthly crude oil burn in United Kingdom in kt,crude_oil
+0,-0.3288545606676643,0.65,1.2783899719456129,1894.5485862626444,Monthly refinery gains in United Kingdom in kt,oil_products
+0,-1.3191267877995871,0.13,0.17495700723554247,345239.6907927657,Monthly total products refinery production in United Kingdom in kt,oil_products
+0,-1.302930014702341,0.31,0.42633667400931363,1855.8259935644999,Monthly butane refinery production in United Kingdom in kt,NGLs
+0,-0.76472125325733,0.19,0.22892153118678618,76.52433260845382,Monthly ethane and methane refinery production in United Kingdom in kt,NGLs
+0,-2.4155535446107903,0.51,0.8777479658003419,3407.666057333295,Monthly naphtha refinery production for United Kingdom in kt,oil_products
+0,-0.14003847516920742,0.1,0.13600917666797946,21657.56257983872,Monthly gasoline refinery production in United Kingdom in kt,oil_products
+0,-0.0459904673823468,0.36,0.47669016026682204,8203.588576735654,Monthly jet/kero refinery production in United Kingdom in kt,oil_products
+0,0.5328076452809929,0.18,0.2460769766549664,1250.9070178135853,Monthly burning oil refinery production in United Kingdom in kt,oil_products
+0,-5.164574447820981,0.33,0.3980923039795689,25284.382993857762,Monthly diesel refinery production in United Kingdom in kt,oil_products
+0,-0.6430304520625072,0.14,0.19040628763971934,27028.938953755976,Monthly DERV oil refinery production in United Kingdom in kt,oil_products
+0,-3.7008259127332686,0.43,0.4732093931089014,16816.992751537975,Monthly fuel oil refinery production in United Kingdom in kt,oil_products
+0,-0.5596951516948567,1.26,3.6420530178431263,158.5167456710759,Monthly lubes refinery production in United Kingdom in kt,oil_products
+0,-1.0657507081926854,0.96,1.6355056540559854,904.6927649343666,Monthly bitumen refinery production in United Kingdom in kt,oil_products
+0,-0.01368121099628139,0.06,0.0824135468825476,112069.41906001848,Monthly total products demand in United Kingdom in kt,oil_products
+0,0.06883816076170035,0.11,0.1304568266191082,909.3861065546645,Monthly butane and propane demand in United Kingdom in kt,NGLs
+0,-0.829818394621642,0.39,0.5397653601702431,675.671283542128,Monthly ethane and methane demand in United Kingdom in kt,NGLs
+0,-0.7379729033063791,4.71,10.297336302425927,3178.357288942111,Monthly naphtha demand in United Kingdom in kt,oil_products
+0,-0.8324358252339774,0.25,0.4939119693533294,51318.601512915135,Monthly gasoline demand in United Kingdom in kt,oil_products
+0,-1.2500011159927427,1.46,2.1899884467934068,268184.26670596533,Monthly jet/kero demand in United Kingdom in kt,oil_products
+0,0.7815002347093565,0.18,0.34456763212054875,2987.040294416509,Monthly heating oil demand in United Kingdom in kt,oil_products
+0,-0.8646175642422953,0.16,0.272819580837549,114175.65896463685,Monthly diesel demand in United Kingdom in kt,oil_products
+0,-0.20094136719383338,0.12,0.1743618125290138,3197.4603726008845,Monthly other oil products demand in United Kingdom in kt,oil_products
+0,-2.341342094263285,0.84,1.0090789627453804,306.9696047701683,Monthly fuel oil demand in United Kingdom in kt,oil_products
+0,-0.5215789797214456,0.37,0.47261152155837766,104.80076939908678,Monthly lubes demand in United Kingdom in kt,oil_products
+0,0.3160781440887167,0.12,0.15564288683045024,514.04054020168,Monthly bitumen demand in United Kingdom in kt,oil_products
+0,-3.910149138594349,0.26,0.31770849030416787,23.968659661233794,Monthly direct crude use/burn for Algeria in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly direct crude use/burn for Indonesia in kb/d,crude_oil
+0,-0.3595160459277591,2.84,7.823017191452601,11422.678985145407,Monthly direct crude use/burn for Iraq in kb/d,crude_oil
+0,-6.024323159660679,3.39,4.43993609801502,125.9689735816937,Monthly direct crude use/burn for Japan in kb/d,crude_oil
+0,-0.03464662561182741,2.19,4.089855133134703,1439.8214635228371,Monthly direct crude use/burn for Kuwait in kb/d,crude_oil
+0,-0.09450099243008592,1.26,2.203553014787564,614.1873426125505,Monthly direct crude use/burn for Netherlands in kb/d,crude_oil
+0,-2.877050546333528,1.16,1.5599001572790423,1710.303671533475,Monthly direct crude use/burn for Thailand in kb/d,crude_oil
+0,0.6896551974467636,0.13,0.16408745590050072,6668.567807690001,Monthly direct crude use/burn for Saudi Arabia in kb/d,crude_oil
+0,-0.9741063350878765,0.16,0.1892754996108262,2388.0267884819464,Monthly LPG demand in Canada in kb/d,NGLs
+0,0.09584032164309941,0.06,0.07945280892022578,2994.8528240770866,Monthly gasoline demand in Canada in kb/d,oil_products
+0,-16.187665673581893,1.1,1.1622552740098462,27598.91947968214,Monthly kerosene demand in Canada in kb/d,oil_products
+0,-0.10109422211744845,0.06,0.07120558751108678,1649.8337038351588,Monthly gasoil demand in Canada in kb/d,oil_products
+0,0.030172218370614456,0.38,0.726807514427294,216.38382382508573,Monthly fuel oil demand in Canada in kb/d,oil_products
+0,0.0732051530610126,0.05,0.06420784055124093,24700.411106070882,Monthly oil products demand in Canada in kb/d,oil_products
+0,-35.28798251204036,0.28,0.3304620077055622,476794.55210387596,Monthly bitumen production in Canada in kb/d,crude_oil
+0,0.1680232006585013,0.05,0.0710119416111927,490.3465518539138,Monthly C5+ production in Canada in kb/d,crude_oil
+0,-2.2689938426767995,0.06,0.0727224051908696,112768.99466406579,Monthly crude oil production in Canada in kb/d,crude_oil
+0,-0.7500960745288243,0.04,0.04419908849092848,66838.93625236432,Monthly crude oil demand in Canada in kb/d,crude_oil
+0,-4.656178478690317,0.07,0.07415624272472279,91724.9724113428,Monthly crude oil exports from Canada in kb/d,crude_oil
+0,-11.25801052503953,0.05,0.04929420784545024,487.82189610900826,Monthly heavy crude oil production in Canada in kb/d,crude_oil
+0,-0.18436768818105698,0.07,0.08212383702728332,4217.398188895193,Monthly crude oil imports to Canada in kb/d,crude_oil
+0,0.08300651846467344,0.03,0.037997840126264455,818.2242593063468,Monthly light & medium crude oil production in Canada in kb/d,crude_oil
+0,-0.09384464116577651,0.06,0.07648360401573148,1139.533557710228,Monthly other liquids production in Canada in kb/d,crude_oil
+0,0.03454648532047444,0.05,0.07331307321235495,12780.885244043511,Monthly runs in Canada in kb/d,crude_oil
+0,-0.0034086337218981466,1.55,2.0582943325637584,15293.079483836831,Monthly crude oil stock change in Canada in kb/d,crude_oil
+0,-0.29983275103125484,0.92,1.4293838670285746,44598.620869997074,Monthly crude oil supply-demand difference in Canada in kb/d,crude_oil
+0,-0.003385554402776547,0.08,0.09821319297615513,12888.021317272916,Monthly synthetic crude production in Canada in kb/d,crude_oil
+0,-1.067887897990924,0.05,0.05981839785092832,93553.21829688124,Monthly liquids production for Canada in kb/d,liquids
+0,-11.844876970393843,0.11,0.13117686488557034,590805.3593366201,Monthly crude oil supply in Canada in kb/d,crude_oil
+0,-0.9462132573405702,0.76,0.7971545924289987,10961.55183590942,Monthly crude oil stock adjustments in Canada in kb/d,crude_oil
+0,-0.7293158073328896,0.03,0.03551280808855013,0.0003018523680203424,Monthly crude oil production in Canada: Ontario in kb/d,crude_oil
+0,-0.13815042891854912,0.04,0.08291553844143616,783.0064740141088,Monthly crude oil demand in Canada: Ontario in kb/d,crude_oil
+0,-0.16218338183385916,0.3,0.35104389464850644,948.0327968181846,Monthly crude oil imports to Canada: Ontario in kb/d,crude_oil
+0,-0.7293158073328896,0.03,0.03551280808855013,0.0003018523680203424,Monthly light & medium crude oil production in Canada: Ontario in kb/d,crude_oil
+0,-0.13815042891854912,0.04,0.08291553844143616,783.0064740141088,Monthly runs in Canada: Ontario in kb/d,crude_oil
+0,-1.2085989403032236,0.57,0.645033639931462,54.242855119332276,Monthly crude oil stock change in Canada: Ontario in kb/d,crude_oil
+0,-0.7293158073328896,0.03,0.03551280808855013,0.0003018523680203424,Monthly liquids production in Canada: Ontario in kb/d,liquids
+0,-0.15810210734623564,0.3,0.3502636958460296,950.2576627719214,Monthly crude oil supply in Canada: Ontario in kb/d,crude_oil
+0,-0.23497464590864836,0.11,0.1232465153150336,1820.5067080168271,Monthly crude oil stock adjustments in Canada: Ontario in kb/d,crude_oil
+0,-1.2158035520650277,0.09,0.11021937833201188,0.19133635865728346,Monthly C5+ production in Canada: Quebec & Eastern in kb/d,crude_oil
+0,-0.06179834439933907,0.2,0.29084005972114885,0.6864271644633636,Monthly condensate production in Canada: Quebec & Eastern in kb/d,crude_oil
+0,-5.897111160554981,0.31,0.3954490112289259,3906.3232560866854,Monthly crude oil production in Canada: Quebec & Eastern in kb/d,crude_oil
+0,-1.259131915818656,0.08,0.11175420056693545,8509.613832059615,Monthly crude oil demand in Canada: Quebec & Eastern  in kb/d,crude_oil
+0,-0.5615336630575234,0.09,0.13661754034239337,970.7894736842105,Monthly crude oil exports from Canada: Quebec & Eastern in kb/d,crude_oil
+0,-0.28284184450577765,0.14,0.15364477946992466,3803.025514190319,Monthly crude oil imports to Canada: Quebec & Eastern in kb/d,crude_oil
+0,-5.897111160554981,0.31,0.3954490112289259,3906.3232560866854,Monthly light & medium crude oil production in Canada: Quebec & Eastern in kb/d,crude_oil
+0,-0.3287840347674602,0.14,0.16626641797136602,1.1158601200170533,Monthly other liquid production in Canada: Quebec & Eastern in kb/d,crude_oil
+0,0.30323393430605927,0.06,0.09696900109679199,2711.593629053503,Monthly runs in Canada: Quebec & Eastern in kb/d,crude_oil
+0,-0.90569607646878,0.4,0.459550126985729,344.5679030889011,Monthly crude oil stock change in Canada: Quebec & Eastern in kb/d,crude_oil
+0,-6.035075751011403,0.3,0.3790759723514114,3961.403277151393,Monthly liquids production in Canada: Quebec & Eastern in kb/d,liquids
+0,0.039971589094121684,0.09,0.1033014436670068,3924.3224205958036,Monthly crude oil supply in Canada: Quebec & Eastern in kb/d,crude_oil
+0,-0.03751738868090171,0.15,0.19059534263344752,2823.6991371251365,Monthly crude oil stock adjustments in Canada: Quebec & Eastern in kb/d,crude_oil
+0,-35.36110533774959,0.28,0.32943916140894486,474790.7858820549,Monthly bitumen production in Canada: Western Canada in kb/d,crude_oil
+0,0.02042459117654105,0.06,0.07829076819986454,575.9540771692856,Monthly C5+ production in Canada: Western Canada in kb/d,crude_oil
+0,-0.3640422346192689,0.08,0.09828610410612014,169.5325526618204,Monthly condensate production in Canada: Western Canada in kb/d,crude_oil
+0,-28.543592408583347,0.2,0.23315759571024286,1041664.4468339874,Monthly crude oil production in Canada: Western Canada in kb/d,crude_oil
+0,-4.554173960192776,0.08,0.08385813430035854,146651.9842723472,Monthly crude oil demand in Canada: Western Canada in kb/d,crude_oil
+0,-5.099854101167957,0.08,0.08379722481354061,107028.90634041175,Monthly crude oil exports from Western Canada in kb/d,crude_oil
+0,-11.258103456691558,0.05,0.04929420179294976,487.8216708068794,Monthly heavy crude oil production in Canada: Western Canada in kb/d,crude_oil
+0,-1.0964346533568654,0.08,0.1081671832118407,801.3621144613131,Monthly crude oil imports to Western Canada in kb/d,crude_oil
+0,-30.189836272067986,0.16,0.18250994267759546,11503.827305055529,Monthly light & medium crude oil production in Canada: Western Canada in kb/d,crude_oil
+0,0.07287638009059771,0.05,0.07135111895468539,963.7779670760316,Monthly other liquids production in Canada: Western Canada in kb/d,crude_oil
+0,-0.9753221967430625,0.1,0.14279202825412798,6221.693566808123,Monthly runs in Canada: Western Canada in kb/d,crude_oil
+0,0.053804665399187934,1.37,2.066271732079702,6910.973883210323,Monthly crude oil stock change in Canada: Western Canada in kb/d,crude_oil
+0,-0.19747560132368913,0.3,0.42486309979924364,30761.87297047423,Monthly crude oil supply-demand difference in Canada: Western Canada in kb/d,crude_oil
+0,-0.003385554402776547,0.08,0.09821319297615513,12888.021317272916,Monthly synthetic crude production in Canada: Western Canada in kb/d,crude_oil
+0,-8.09841473561675,0.11,0.13195637664592014,418898.03005222016,Monthly liquids production in Western Canada in kb/d,liquids
+0,-13.575486368808084,0.13,0.15762212621516394,667237.0975038147,Monthly crude oil supply in Canada: Western Canada in kb/d,crude_oil
+0,-5.05984569306324e+31,1.0,1.0,40873.1080059751,Monthly EA forecast for crude oil stock adjustments in Canada: Western Canada in kb/d,crude_oil
+0,-2.1866065975906095e+31,1.0,1.0,4415.816857440166,Monthly heavy crude oil imports to US refining district: Appalachian No. 1 in kb/d,crude_oil
+0,-0.490376588591229,0.29,0.4268376775355556,822.187800896484,Monthly heavy crude oil imports to US refining district: Billings in kb/d,crude_oil
+0,-0.06251722662957615,0.33,0.5324432100416219,15489.675541912136,Monthly heavy crude oil imports to US refining district: Chicago in kb/d,crude_oil
+0,-0.11314955615379563,2.52,7.139101010774446,2457.0678229544005,Monthly heavy crude oil imports to US refining district: Corpus Christi in kb/d,crude_oil
+0,-1.229040790073019,1.9,4.45142439544091,1737.8031300907708,Monthly heavy crude oil imports to US refining district: East Coast in kb/d,crude_oil
+0,-3.4665157219914287,3.06,4.672284220561677,297.4910798133305,Monthly heavy crude oil imports to US refining district: Guernsey in kb/d,crude_oil
+0,-3.6275152213182293,0.62,0.6646948528697851,1107.6118501102576,Monthly heavy crude oil imports to US refining district: Hawaii in kb/d,crude_oil
+0,-3.7054133568314906,0.29,0.3399200050323403,16754.18961105529,Monthly heavy crude oil imports to US refining district: Houston in kb/d,crude_oil
+0,-0.5882931962123366,0.44,0.5083001569688361,698.7319520807044,Monthly heavy crude oil imports to US refining district: Lake Charles in kb/d,crude_oil
+0,-5.706933982130502e+31,1.0,1.0,0.1758584807492196,Monthly heavy crude oil imports to US refining district: Longview in kb/d,crude_oil
+0,-0.33786955757508563,0.31,0.4330645081139261,3512.5962230326522,Monthly heavy crude oil imports to US refining district: Los Angeles in kb/d,crude_oil
+0,-0.012677312065262791,0.19,0.24950768472100351,1863.757343118362,Monthly heavy crude oil imports to US refining district: Nederland in kb/d,crude_oil
+0,-0.21883698972492294,0.43,0.7042351030660849,178.6272494262224,Monthly heavy crude oil imports to US refining district: NoLa-Ark Inland in kb/d,crude_oil
+0,-0.10428855472491594,0.13,0.17046313307330938,562.7913015790197,Monthly heavy crude oil imports to US refining district: North Group Three in kb/d,crude_oil
+0,-3.320384714542887,0.53,0.5943563363899756,49.26821461605801,Monthly heavy crude oil imports to US refining district: NW Rockies in kb/d,crude_oil
+0,-1.6917972941001227,0.28,0.3111370704194524,13167.495773178704,Monthly heavy crude oil imports to US refining district: Patoka in kb/d,crude_oil
+0,-4.392995543391451,0.89,0.9011337153622698,7614.169156838941,Monthly heavy crude oil imports to US refining district: Permian in kb/d,crude_oil
+0,-2.8433530375453224,1.65,2.132543860347586,25.608599980450936,Monthly heavy crude oil imports to US refining district: Salt Lake City in kb/d,crude_oil
+0,-0.18433487149492866,0.66,1.049768221284999,574.4237313500173,Monthly heavy crude oil imports to US refining district: San Francisco in kb/d,crude_oil
+0,0.08869236379360401,0.6,0.8338780686064484,55.65717509876591,Monthly heavy crude oil imports to US refining district: South Rockies in kb/d,crude_oil
+0,-7.401842078989182,0.83,0.9197755762803927,35820.33563349149,Monthly heavy crude oil imports to US refining district: St James in kb/d,crude_oil
+0,-0.5051143510189422,0.73,1.4066143642578026,2708.477915690593,Monthly heavy crude oil imports to US refining district: Toledo in kb/d,crude_oil
+0,-4.142939854792474,0.23,0.2845761257565637,411174.33128904214,Monthly heavy crude oil imports to US refining district: Total in kb/d,crude_oil
+0,-0.5195039648860471,3.14,5.797580587878354,25661.786343388878,Monthly heavy crude oil imports to US refining district: Twin Cities in kb/d,crude_oil
+0,-0.27510671797141883,0.92,1.2568573926104707,246.5711320547391,Monthly heavy crude oil imports to US refining district: Washington in kb/d,crude_oil
+0,-4.65650969529086,1.0,1.0,359.1030176899064,Monthly refinery outages in US refining district: Alaska in kb/d,crude_oil
+0,-5.508685698820646e+29,0.08,0.08315492250974257,27.81175543647806,Monthly refinery outages in US refining district: Appalachian No. 1 in kb/d,crude_oil
+0,-0.6947295649504637,1.04,1.87932100028085,114.47594852164954,Monthly refinery outages in US refining district: Bakersfield in kb/d,crude_oil
+0,-1.6413575208056632,0.58,0.6035081200552673,841.8799035321489,Monthly refinery outages in US refining district: Bakken in kb/d,crude_oil
+0,-2.3238635280080375,1.0,1.0,498.92988144789655,Monthly refinery outages in US refining district: Billings in kb/d,crude_oil
+0,-0.0445490338888308,2.58,4.025555467498845,11393.120187601511,Monthly refinery outages in US refining district: Chicago in kb/d,crude_oil
+0,0.07493341535112363,8.44,21.926051250485504,4204.581132702954,Monthly refinery outages in US refining district: Corpus Christi in kb/d,crude_oil
+0,-0.17184858194121788,0.55,0.7500619584564813,1087.5945227462296,Monthly refinery outages in US refining district: East Coast in kb/d,crude_oil
+0,-0.052270347801323114,1.36,2.136093648915127,584.4774518627609,Monthly refinery outages in US refining district: Guernsey in kb/d,crude_oil
+0,-1.9446112332667766e+31,1.0,1.0,245.4444444444444,Monthly refinery outages in US refining district: Hawaii in kb/d,crude_oil
+0,-0.006115186783171467,1.96,3.6010686925125506,59335.947399626646,Monthly refinery outages in US refining district: Houston in kb/d,crude_oil
+0,-1.7747123943929322,0.75,0.7753606435869705,5070.41465363461,Monthly refinery outages in US refining district: Lake Charles in kb/d,crude_oil
+0,-2.615553686687064,1.0,1.0,2.3810673405678613,Monthly refinery outages in US refining district: Las Vegas in kb/d,crude_oil
+0,-0.01179570313960232,1.33,2.1263395553102153,470.93424033331695,Monthly refinery outages in US refining district: Longview in kb/d,crude_oil
+0,-0.3746808171314775,0.82,0.9055870074413878,11435.422501672381,Monthly refinery outages in US refining district: Los Angeles in kb/d,crude_oil
+0,-0.016443471670268384,1.2,3.2307901291290175,1638.3770462518255,Monthly refinery outages in US refining district: Memphis in kb/d,crude_oil
+0,-0.07330915972004215,1.73,3.52377613576971,22819.047250128933,Monthly refinery outages in US refining district: Nederland in kb/d,crude_oil
+0,-1.1393587916274637,0.44,0.44506046344879485,31.906374195337914,Monthly refinery outages in US refining district: NoLa-Ark Inland in kb/d,crude_oil
+0,-0.20574003941119656,4.84,9.522636092498896,3174.746047140191,Monthly refinery outages in US refining district: North Group Three in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly refinery outages in US refining district: NW Rockies in kb/d,crude_oil
+0,-0.02548794739168314,2.45,5.299854512642943,2436.7300804203633,Monthly refinery outages in US refining district: Patoka in kb/d,crude_oil
+0,-0.09416090009983735,3.29,11.01317952953043,3095.38411322296,Monthly refinery outages in US refining district: Permian in kb/d,crude_oil
+0,-0.533756756556802,4.1,8.68736992182552,627.4718084756048,Monthly refinery outages in US refining district: Salt Lake City in kb/d ,crude_oil
+0,0.08597918378945468,2.24,2.8805196475102974,4558.394110360094,Monthly refinery outages in US refining district: San Francisco in kb/d,crude_oil
+0,-0.016711994445054223,0.84,1.6565256354441278,416.8878208035698,Monthly refinery outages in US refining district: South Group Three in kb/d,crude_oil
+0,-0.7590646899696456,0.8,1.0701409928637,1162.8425970395976,Monthly refinery outages in US refining district: South Rockies in kb/d,crude_oil
+0,-0.09379262949656031,3.38,6.576827754348485,28267.10694670598,Monthly refinery outages in US refining district: St James in kb/d,crude_oil
+0,-0.2581915071416938,1.73,2.996348162107333,6387.334150797497,Monthly refinery outages in US refining district: Toledo in kb/d,crude_oil
+0,0.4201914622121269,0.45,0.6170624115472,225916.76659689314,Monthly refinery outages in US refining district in kb/d,crude_oil
+0,-0.6317801773527549,1.67,6.735293658414435,3007.8783348479997,Monthly refinery outages in US refining district: Twin Cities in kb/d,crude_oil
+0,0.034274794526692354,0.77,0.8519481315267762,1638.5083210559549,Monthly refinery outages in US refining district: Washington in kb/d,crude_oil
+0,-1.1538461538461542,0.57,0.7807200583588265,6.992715920915713,Monthly refinery outages in US refining district: West Gulf in kb/d,crude_oil
+0,-0.4685144072820926,0.02,0.03505668162949661,410.60499284727166,Monthly crude oil production in India in kb/d,crude_oil
+0,-3.043048883539085,0.14,0.15095595415405616,530492.0080762983,Monthly crude oil imports to India in kb/d,crude_oil
+0,-2.2016764702719906,0.09,0.10186547232258003,289999.52090383956,Monthly refinery runs in India in kb/d,crude_oil
+0,-1.1707883214927897,0.1,0.11834290153894095,349497.57913042227,Monthly oil products demand in India in kb/d,oil_products
+0,-9.251281250633435,0.28,0.306704056705844,69791.26802492629,Monthly gasoline demand in India in kb/d,oil_products
+0,-2.8390606618098784,0.14,0.14758950887094302,309.91054120818416,Monthly fuel oil demand in India in kb/d,oil_products
+0,-1.5445218610214857,0.13,0.14846743579142357,78322.88272145845,Monthly diesel demand in India in kb/d,oil_products
+0,0.5164257275318299,0.04,0.04621535104632909,1669.0742980118218,Monthly LPG demand in India in kb/d,NGLs
+0,-10.824998204706864,0.41,0.4603035450614288,7187.762310307898,Monthly jet/kero demand in India in kb/d,oil_products
+0,0.010933432716817681,0.08,0.1023752157671801,1040.7804555942294,Monthly naphtha demand in India in kb/d,oil_products
+0,-0.08849423039491522,0.84,1.2210540330578994,141.33389093931245,Monthly kerosene demand in India in kb/d,oil_products
+0,-0.08042429470159362,0.2,0.2561957016205656,22302.706182505983,Monthly other oil products demand in India in kb/d,oil_products
+0,0.22368166752185437,0.2,0.26003451948787537,1844.6320980387861,Monthly crude oil imports to Australia in kb/d,crude_oil
+0,-0.8808671713992355,0.16,0.18326719740433153,9664.223927327972,Monthly diesel imports to Australia in kb/d,oil_products
+0,-2.6900213108372246,0.57,0.6013265549041515,4535.649182257148,Monthly jet/kero imports to Australia in kb/d,oil_products
+0,-2.4386939243040673,0.31,0.3375376185758717,3914.816184966631,Monthly gasoline imports to Australia in kb/d,oil_products
+0,-0.8480934060590981,0.17,0.19334496994163633,29130.95642201978,Monthly oil products imports to Australia in kb/d,oil_products
+0,-0.09744187468301768,0.19,0.24492189649248294,145.35700059299344,Monthly other oil products imports to Australia in kb/d,oil_products
+0,0.48706402288384754,0.13,0.17157884139061877,330.9734179118819,Monthly gasoline refinery production in Australia in kb/d,oil_products
+0,-2.1160310053715277,0.5,0.5786026802018576,2091.253099638782,Monthly diesel refinery production in Australia in kb/d,oil_products
+0,-3.7753743133418576,0.58,0.5945324431152187,149.0907278489185,Monthly jet/kero refinery production in Australia in kb/d,oil_products
+0,-34.73676469966317,1.76,1.8963950538674041,111.35700660229648,Monthly LPG production in Australia in kb/d,NGLs
+0,-15.083952484756349,0.51,0.5570092492873602,449.8706851776761,Monthly other oil products refinery production in Australia in kb/d,oil_products
+0,0.02487701559931732,0.18,0.22376338004460256,3071.211939010518,Monthly oil products refinery production in Australia in kb/d,oil_products
+0,-3.6016883044681984,0.48,0.6030206267962259,2194.519269509652,Monthly crude oil production in Australia in kb/d,crude_oil
+0,-2.5077710646704654,0.16,0.20951441645973506,1430.558762086684,Monthly condensate production in Australia in kb/d,condensate
+0,-0.9995228160899261,0.14,0.1713459037603291,2200.6756835550514,Monthly liquids production in Australia in kb/d,liquids
+0,-0.6992525626113917,1.56,2.0013429230783877,6401.202828041794,Monthly crude oil exports for Indonesia in kb/d,crude_oil
+0,-1.6974815952044287,1.11,1.3462617756447037,61.265712187385915,Monthly condensate exports from Indonesia in kb/d,condensate
+0,-1.0353434271106283,0.6,0.9956357116069573,0.00016321644556180896,Monthly LPG exports from Indonesia in kb/d,NGLs
+0,-0.07488588875045421,96.53,371.55555132867914,64.59257138463754,Monthly gasoline exports from Indonesia in kb/d,oil_products
+0,-0.021702208435352865,1567268.29,3703936.0277711074,8.378442267526117,Monthly naphtha exports from Indonesia in kb/d,oil_products
+0,-4.386828198995883,324.66,402.3927500238278,117.58209680646308,Monthly jet/kero exports from Indonesia in kb/d,oil_products
+0,-0.3252516831150194,942397.45,3195557.8079837137,132.7616248689017,Monthly gasoil exports from Indonesia in kb/d,oil_products
+0,-1.9164565419571113,0.95,1.4196273399354788,3774.8308379005034,Monthly fuel oil exports from Indonesia in kb/d,oil_products
+0,-1.8582788907291108,0.45,0.48523871749333586,26663.837721515167,Monthly crude oil imports to Indonesia in kb/d,crude_oil
+0,-0.4935172114378503,0.15,0.22373078140946603,1458.1479291593948,Monthly LPG imports to Indonesia in kb/d,NGLs
+0,-2.0505629645604024,0.2,0.2259010849781993,7649.35507674985,Monthly gasoline imports to Indonesia in kb/d,oil_products
+0,0.13207839598685378,0.4,0.5306545582518846,1535.5220023408426,Monthly gasoil imports to Indonesia in kb/d,oil_products
+0,-0.1661573304822963,0.32,0.38875116324175835,90.80115415133498,Monthly jet and kerosene imports to Indonesia in kb/d,oil_products
+0,-0.16305479679571966,0.85,1.4566408683424639,225.85441217134436,Monthly fuel oil imports to Indonesia in kb/d,oil_products
+0,-0.21116952492151952,0.56,1.551916294081002,304.0959400963795,Monthly naphtha imports to Indonesia in kb/d,oil_products
+0,0.7677784372519364,0.07,0.09030145015847915,2.1832806732826935,Monthly LPG refinery production in Indonesia in kb/d,NGLs
+0,0.4086352534158514,0.07,0.08034034444408744,215.29735752686756,Monthly gasoline refinery production in Indonesia in kb/d,oil_products
+0,0.14072514547541692,0.07,0.07974519495096237,663.1080497878729,Monthly gasoil refinery production in Indonesia in kb/d,oil_products
+0,0.040424668325780955,0.08,0.09167273439913669,46.34190313318776,Monthly jet/kero refinery production in Indonesia in kb/d,oil_products
+0,0.7606836110531963,0.1,0.12890963744833578,16.0380549537994,Monthly fuel oil refinery production in Indonesia in kb/d,oil_products
+0,0.8544650044544368,0.16,0.22857978906009077,58.42860481617003,Monthly naphtha refinery production for Indonesia in kb/d,oil_products
+0,0.01668891823617258,0.07,0.0906851539795486,3703.0318171139093,Monthly oil products refinery production for Indonesia in kb/d,oil_products
+0,-0.5685761752317655,0.1,0.13034183043731581,1405.4696290158363,Monthly LPG implied demand in Indonesia in kb/d,NGLs
+0,0.48801745047390077,0.17,0.21944226408783457,329.33496878798667,Monthly naphtha demand in Indonesia in kb/d,oil_products
+0,-2.863291736800713,0.16,0.17696154694263388,10280.724650785576,Monthly gasoline demand in Indonesia in kb/d,oil_products
+0,-3.731631155542903,0.3,0.32255049386091,913.0211162975976,Monthly kerosene demand in Indonesia in kb/d,oil_products
+0,-2.187847484012888,0.13,0.1623421611890133,5367.085961373957,Monthly gasoil demand in Indonesia in kb/d,oil_products
+0,-0.934851320149654,1.22,3.1588464873173474,255.4974461414909,Monthly fuel oil demand in Indonesia in kb/d,oil_products
+0,-0.8297619709164585,0.07,0.0850184108761686,16787.301936687854,Monthly oil products demand in Indonesia in kb/d,oil_products
+0,0.3492336143620838,0.1,0.11694462221921934,13429.280168047977,Monthly crude oil imports to Japan from Saudi Arabia in kb/d,crude_oil
+0,-4.011840457306726,0.28,0.29955403460035557,99966.71915673003,Monthly crude oil imports to Japan from UAE in kb/d,crude_oil
+0,-1.1876709609829583,2.0,2.3904019163783015,3534.836315062207,Monthly crude oil imports to Japan from Former Soviet Union in kb/d,crude_oil
+0,-0.3491135085050019,1.05,1.703696854157796,7518.776028361206,Monthly crude oil imports to Japan from Qatar in kb/d,crude_oil
+0,-0.9113652492180475,0.3,0.3915432744106583,3709.6438541159673,Monthly crude oil imports to Japan from Kuwait in kb/d,crude_oil
+0,-1.4478359303856196e+29,0.13,0.15264670754070847,467.82102022369514,Monthly crude oil imports to Japan from Iran in kb/d,crude_oil
+0,-0.6568339178915301,87.58,341.6431186539558,2302.0900297458975,Monthly crude oil imports to Japan from United States in kb/d,crude_oil
+0,-79.82115977999617,1.12,1.1316980170549753,1405.6863565305437,Monthly crude oil imports to Japan from Iraq in kb/d,crude_oil
+0,-0.10787085538295682,0.09,0.16448999283506804,22.663807735821315,Monthly crude oil imports to Japan from Mexico in kb/d,crude_oil
+0,-14.571198979318952,1.32,1.5559451650509935,426.26632761913106,Monthly crude oil imports to Japan from Vietnam in kb/d,crude_oil
+0,-0.3036845669343875,0.63,0.8218723429396719,13.730716940387628,Monthly crude oil imports to Japan from Indonesia in kb/d,crude_oil
+0,-1.5620084702306416,0.57,0.6383384854139929,9609.65407315146,Monthly crude oil imports to Japan from other countries in kb/d,crude_oil
+0,-2.154715364489743,0.16,0.19987180637345425,206577.87000055102,Monthly crude oil imports to Japan in kb/d,crude_oil
+0,0.7480311241663181,0.02,0.029355970136049476,510.0021473332436,Monthly gasoline demand in Japan in kb/d,oil_products
+0,-0.8949334087446259,0.13,0.17087096075189967,9774.37103775207,Monthly naphtha demand in Japan in kb/d,oil_products
+0,-11.921262259679432,1.05,1.16980210277817,18435.434792511824,Monthly fuel oil demand in Japan in kb/d,oil_products
+0,-6.6742316557049435,3.42,3.9105999021194444,182.0067393369836,Monthly crude oil burn in Japan in kb/d,crude_oil
+0,0.6558309730722449,0.08,0.09743674128768225,1510.2808220900067,Monthly LPG demand in Japan in kb/d,NGLs
+0,-3.7489886224435462,0.3,0.3336763087647311,587.2184397682371,Monthly kerosene demand in Japan in kb/d,oil_products
+0,-0.2942770298277515,0.05,0.06591585628163817,1118.7533219746535,Monthly gasoil demand in Japan in kb/d,oil_products
+0,0.5436747066888069,0.06,0.08460151404734592,514.0962825616895,Monthly other oil products demand in Japan in kb/d,oil_products
+0,0.3993979477090355,0.07,0.09044294263452143,61506.6374823132,Monthly oil products demand in Japan in kb/d,oil_products
+0,0.01692235163274647,0.11,0.13992717283533576,3649.914455183584,Monthly naphtha imports to Japan in kb/d,oil_products
+0,-0.7844290853008062,0.72,1.0871417401033099,497.9078156163596,Monthly fuel oil imports to Japan in kb/d,oil_products
+0,0.023561275624812028,0.58,0.8747163595821454,927.0904146246821,Monthly gasoline imports to Japan in kb/d,oil_products
+0,0.6520757978652933,0.51,0.8376760282509477,340.13301909549017,Monthly kerosene imports to Japan in kb/d,oil_products
+0,-0.529889292910821,2.31,2.822713999011236,16.10026144137432,Monthly jet imports to Japan in kb/d,oil_products
+0,-0.027197712041209243,1.11,1.6036829115579248,352.97937528627926,Monthly diesel imports to Japan in kb/d,oil_products
+0,-0.32946543527517713,2.37,11.056423865528568,8.088835979771067,Monthly other oil products imports to Japan in kb/d,oil_products
+0,0.029590802642318614,0.1,0.13452467358572734,5568.020761211005,Monthly oil products imports to Japan in kb/d,oil_products
+0,0.08255389219231524,0.22,0.29023872478343005,720.7872952216673,Monthly jet exports from Japan in kb/d,oil_products
+0,-0.23546212379675935,0.15,0.1849131451543195,650.394817947326,Monthly fuel oil exports from Japan in kb/d,oil_products
+0,-6.9989778721705225,1.06,1.1084288016927575,13747.794866244216,Monthly diesel exports from Japan in kb/d,oil_products
+0,-0.014037738371967423,0.86,3.297802339712296,1265.9477943828676,Monthly gasoline exports from Japan in kb/d,oil_products
+0,0.1587488780021391,0.96,1.806155897508537,113.61825221510803,Monthly kerosene exports from Japan in kb/d,oil_products
+0,-0.36137688848777705,0.43,1.2005876919989966,0.4682174767119934,Monthly naphtha exports from Japan in kb/d,oil_products
+0,-1.2703732644489705,0.66,0.7460173392143838,177.3610025605644,Monthly other oil products exports from Japan in kb/d,oil_products
+0,-16.563557996306184,0.73,0.7545460786318641,130974.04233585033,Monthly oil products exports from Japan in kb/d,oil_products
+0,-3.469675763185461,0.27,0.32069873617638556,2534.463165926674,Monthly crude oil imports to Pakistan in kb/d,crude_oil
+0,-3.469675763185461,0.27,0.32069873617638556,2534.463165926674,Monthly gasoline imports to Pakistan in kb/d,oil_products
+0,-2.5795988296004633,0.11,0.12145110910983611,248.0355466943052,Monthly jet/kero imports to Pakistan in kb/d,oil_products
+0,-1.0998146966717277,0.36,0.5717643698032264,382.09011514328785,Monthly diesel imports to Pakistan in kb/d,oil_products
+0,-1.6308574646976073,4.27,5.388646449827179,6098.582822569879,Monthly fuel oil imports to Pakistan in kb/d,oil_products
+0,-0.035078086641813444,0.09,0.11367990939270725,633.3345742097891,Monthly refinery runs in Pakistan in kb/d,crude_oil
+0,-0.12800575683247906,0.14,0.1852591549903689,43.45888013013465,Monthly fuel oil refinery production in Pakistan in kb/d,oil_products
+0,0.021584338265258185,0.11,0.1516553800473537,139.80057071509103,Monthly diesel refinery production in Pakistan in kb/d,oil_products
+0,-1.844416418618973,0.14,0.1577053181387325,88.0580532233989,Monthly gasoline refinery production in Pakistan in kb/d,oil_products
+0,-0.847780502287325,0.2,0.25896603333101037,14.413859468267901,Monthly jet/kero refinery production in Pakistan in kb/d,oil_products
+0,-3.5245947612436437,0.23,0.2913288014959268,2315.3751392199492,Monthly gasoline demand in Pakistan in kb/d,oil_products
+0,-0.17223332106928746,0.18,0.21362299556755937,5912.162894517001,Monthly oil products demand in Pakistan in kb/d,oil_products
+0,-1.652623560998637,0.24,0.25776417414928915,18.170760960110858,Monthly jet/kero demand in Pakistan in kb/d,oil_products
+0,-1.6758924625421336,1.16,1.6472399491123666,1753.2485000479885,Monthly fuel oil demand in Pakistan in kb/d,oil_products
+0,-0.11362756384060879,0.23,0.2827090643714677,1246.663904027147,Monthly diesel demand in Pakistan in kb/d,oil_products
+0,-0.14328722378601277,0.11,0.14514428412625038,14840.630492898646,Monthly crude oil imports to Korea from Saudi Arabia in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil imports to Korea from Iran in kb/d,crude_oil
+0,-0.3749070352767243,1.48,3.000712110150671,18482.57412598622,Monthly crude oil imports to Korea from Europe in kb/d,crude_oil
+0,-3.1889992353963814,0.45,0.4736107984507433,41777.97027138581,Monthly crude oil imports to Korea from United States in kb/d,crude_oil
+0,-0.5107152053865653,0.13,0.14452908316524546,81805.40154269373,Monthly crude oil imports to Korea from Middle East in kb/d,crude_oil
+0,-20.355581633646896,0.29,0.3311543849206459,170551677.87332153,Monthly crude oil inventories in Korea in kb,crude_oil
+0,-11.635712300924167,0.2,0.20560702454147167,64415.7344990405,Monthly naphtha demand in Korea in kb/d,oil_products
+0,-1.3222523159585973,0.12,0.151915352690799,3558.9887374983873,Monthly diesel demand in Korea in kb/d,oil_products
+0,-1.0503056000044007,0.12,0.14150757156900634,1403.5120174661852,Monthly gasoline demand in Korea in kb/d,oil_products
+0,-11.569463725049392,0.53,0.5858444882446042,827.5659896717766,Monthly fuel oil demand in Korea in kb/d,oil_products
+0,0.8611958802621111,0.31,0.37945605075359284,120.5850945365786,Monthly kerosene demand in Korea in kb/d,oil_products
+0,-0.9472261364658079,0.23,0.2807845763026683,771.435461925143,Monthly jet demand in Korea in kb/d,oil_products
+0,-0.6820407327681537,0.07,0.08946412714560471,2385.2479710690195,Monthly other oil products demand in Korea in kb/d,oil_products
+0,-2.1742090740280764,0.07,0.07878518911709431,43345.42986842084,Monthly oil products demand in Korea in kb/d,oil_products
+0,-1.3159775960092537,0.13,0.15225318345698466,12556.813762507292,Monthly naphtha imports to Korea in kb/d,oil_products
+0,-0.004536911255114351,0.46,0.7143497419336324,1095.9161522722986,Monthly fuel oil imports to Korea in kb/d,oil_products
+0,-1.027236539039528,0.15,0.17773726127625727,1287.1881036285463,Monthly propane imports to Korea in kb/d,NGLs
+0,-3.403781138399725,0.22,0.25510555839640325,699.0420929145175,Monthly butane imports to Korea in kb/d,NGLs
+0,1.0,0.0,0.0,0.0,Monthly diesel imports to Korea in kb/d,oil_products
+0,-0.8161286453299263,0.81,0.8349003016148256,92.79466092167323,Monthly other oil products imports to Korea in kb/d,oil_products
+0,-3.432790130055478,0.26,0.27224627922652306,6995.186795698689,Monthly gasoline exports from Korea in kb/d,oil_products
+0,-1.8105098163212537e+27,0.02,0.02025787589208105,93.60116368111777,Monthly diesel exports from Korea in kb/d,oil_products
+0,-2.8635782237878984,0.39,0.4215028130709285,12171.968215515779,Monthly jet exports from Korea in kb/d,oil_products
+0,-0.458663267457462,0.22,0.26914354356699,712.8834739534525,Monthly naphtha exports from Korea in kb/d,oil_products
+0,-0.7181902538036296,1.8,2.500021257833709,429.505867052273,Monthly fuel oil exports from Korea in kb/d,oil_products
+0,0.24422988114510358,1.8,3.928952887188402,131.1954870788279,Monthly kerosene exports from Korea in kb/d,oil_products
+0,-0.0012090842837220173,0.1,0.1385717483682839,328.56062838690366,Monthly other oil products exports from Korea in kb/d,oil_products
+0,-0.3495367416852584,0.13,0.14590171222106413,25.36873786415441,Monthly crude oil days of forward cover in OECD North America in d,crude_oil
+0,-0.15532891427590378,0.07,0.09966022862764776,12.154208472715297,Monthly crude oil days of forward cover in OECD Europe in d,crude_oil
+0,-1.5647186759840142,0.23,0.2538501578628711,40.085244975998,Monthly crude oil days of forward cover in OECD Asia Pacific in d,crude_oil
+0,-0.49685821662681784,0.12,0.13612665839017174,19.616982481573043,Monthly crude oil days of forward cover in OECD in d,crude_oil
+0,-0.7257474868165981,0.14,0.14486292935713704,33.60912611005513,Monthly oil products days of forward cover in OECD North America in d,oil_products
+0,-1.1475993047863726,0.21,0.22021794581575896,103.53858545702461,Monthly oil products days of forward cover in OECD Europe in d,oil_products
+0,0.5790717721336625,0.05,0.0549204016655609,3.3569338589500903,Monthly oil products days of forward cover in OECD Asia Pacific in d,oil_products
+0,-2.3857139724007057,0.21,0.22643666672182128,75.31531198375859,Monthly oil products days of forward cover in OECD in d,oil_products
+0,-0.814628268519735,0.14,0.1498232730676739,98.63361104321275,Monthly liquids days of forward cover in OECD North America in d,liquids
+0,0.11588831542059796,0.08,0.10691398505098725,87.20766673186031,Monthly liquids days of forward cover in OECD Europe in d,liquids
+0,0.21191948938027905,0.09,0.10492627624806918,24.694811924157445,Monthly liquids days of forward cover in OECD Asia Pacific in d,liquids
+0,-1.6740505545574864,0.19,0.20182326017964822,158.58898310420741,Monthly liquids days of forward cover in OECD in d,liquids
+0,-4.192094622364015,0.1,0.11392632237985463,5128.741837735005,Monthly crude oil inventories in North America in mb,crude_oil
+0,-0.09909258693007428,0.04,0.04560660988842534,4994.427981141536,Monthly liquid inventories in North America in mb,liquids
+0,-0.0018628857730698112,0.04,0.054500294779533894,337.9995649275513,Monthly crude oil inventories in OECD Europe in mb,crude_oil
+0,-0.08772902435517627,0.04,0.05982099125073976,3873.0677323202935,Monthly liquid inventories in OECD Europe in mb,liquids
+0,0.08996068418422154,0.11,0.13425200985722802,361.3538001236603,Monthly crude oil inventories in OECD Asia-Pacific in mb,crude_oil
+0,-2.722699438456264,0.13,0.15138642131226257,2698.920104464105,Monthly liquid inventories in OECD Asia-Pacific in mb,liquids
+0,-12.032320834789735,0.3,0.31265679934030405,272450708.3259426,Monthly crude inventories in India in kb,crude_oil
+0,-0.627863396835419,0.17,0.18932689061903732,46795.052409498865,Monthly crude oil inventories in China in mb,crude_oil
+0,-204.07984685481188,0.54,0.6791217124785612,9591466701.11628,Monthly crude oil inventories in Saudi Arabia in kb,crude_oil
+0,-2.2610188374159006,0.3,0.32226380100190105,16274931.547567094,Monthly crude inventories in Iraq in kb,crude_oil
+0,-2.461405031381977e+28,0.05,0.05261098209697863,715.7905739998763,Monthly crude oil inventories in Oman in kb,crude_oil
+0,-28.133553353117815,0.37,0.4027356933791586,17999864.677299563,Monthly crude inventories in Argentina in kb,crude_oil
+0,-0.16178885349802474,0.16,0.2048369019211172,69864009.94202542,Monthly crude inventories in Brazil in kb,crude_oil
+0,-0.32296563757979313,0.2,0.26463201968331346,428434.2457385327,Monthly crude inventories in Chile in kb,crude_oil
+0,0.17429813618696455,0.06,0.09547794334288644,3837148.938254127,Monthly crude oil inventories in Venezuela in kb,crude_oil
+0,-1.473054649804952,1.19,3.392967912095779,17302476.262703266,Monthly crude inventories in Algeria in kb,crude_oil
+0,-4.851900370251301,0.5,0.5120965048556234,155633894.49558645,Monthly crude inventories in Nigeria in kb,crude_oil
+0,-1.1380163037087594,0.42,0.555048060556755,23836550.356179327,Monthly crude oil inventories in South Africa in kb,crude_oil
+0,-5.780839308248864,0.59,0.6055521367145797,359464.9331448506,Monthly crude oil inventories in Tunisia in kb,crude_oil
+0,-0.8358980119060988,0.79,1.1243407431500723,26.685714285714287,Monthly crude oil floating storage estimate in World (excludes Iran and Venezuela) in mb,crude_oil
+0,-0.2726196834355694,1.17,1.9848166393809537,41354.480768871304,Monthly crude oil stock change for Brazil in kb/d,crude_oil
+0,-0.1613107781997436,3.89,13.144261914448805,62423.72271570913,Monthly crude oil stock change in India in kb/d,crude_oil
+0,0.4307875141371337,0.03,0.03924737862856206,111.2383655848139,Monthly gasoline inventories in North America in mb,oil_products
+0,-0.41438628696112634,0.1,0.11869385158821036,521.6417896606721,Monthly middle distillate inventories in North America in mb,oil_products
+0,0.03391553595897201,0.06,0.07950772011171117,8.943166997782969,Monthly fuel oil inventories in North America in mb,oil_products
+0,-1.2772476369677923,0.07,0.08649476566152592,4042.7703615809073,Monthly total product inventories in North America in mb,oil_products
+0,-0.5110892944735617,0.07,0.08324348622379027,53.42914504371998,Monthly gasoline inventories in OECD Europe in mb,oil_products
+0,-0.7819361857833391,0.1,0.1312237373990593,1725.8559417140307,Monthly middle distillate inventories in OECD Europe in mb,oil_products
+0,-18.42492588127888,0.26,0.2850432429716091,363.35306399192643,Monthly fuel oil inventories in OECD Europe in mb,oil_products
+0,-1.5175705113978388,0.09,0.10824148552754471,4065.5970423528656,Monthly total product inventories in OECD Europe in mb,oil_products
+0,-0.5562417327038729,0.06,0.06897073707735954,3.7055311686570085,Monthly gasoline inventories in OECD Asia Pacific in mb,oil_products
+0,0.2553305171274225,0.06,0.07347176950398607,23.636059514665327,Monthly middle distillate inventories in OECD Asia Pacific in mb,oil_products
+0,-3.8528752626707314,0.16,0.18725687150885892,9.738274990169947,Monthly fuel oil inventories in OECD Asia Pacific in mb,oil_products
+0,0.21333369968015037,0.04,0.044547811617322075,58.225400095230505,Monthly total product inventories in OECD Asia Pacific in mb,oil_products
+0,-0.4312657333939145,0.48,0.5317629739927221,51519906.562542,Monthly gasoline inventories in India in kb,oil_products
+0,-0.12806285502797876,0.5,0.5856713509609042,199506113.30178192,Monthly middle distillate inventories in India in kb,oil_products
+0,-0.002181663358586272,0.34,0.43772849333998876,1216035.982124446,Monthly fuel oil inventories in India in kb,oil_products
+0,-0.4337573602515523,0.41,0.4279890809677431,1224616264.5365853,Monthly total product inventories in India in kb,oil_products
+0,-0.04821105045798135,0.18,0.24321685838714788,159.5636575873994,Monthly gasoline inventories in China in mb,oil_products
+0,-3.499412452973062,0.16,0.19255658251343305,498.61701600194044,Monthly gasoil inventories in China in mb,oil_products
+0,-6.050580013082229,0.21,0.287498055143396,4674.479657347192,Monthly total products inventories in China in mb,oil_products
+0,-2.5326183354314327,0.15,0.16554420007871543,25068717.869365238,Monthly gasoline inventories in Saudi Arabia in kb,oil_products
+0,-0.3270183001610456,0.06,0.0760212972933143,6837849.268292683,Monthly middle distillate inventories in Saudi Arabia in kb,oil_products
+0,-0.02232498558281759,0.3,0.6646048126819101,6481716.167758711,Monthly fuel oil inventories in Saudi Arabia in kb,oil_products
+0,-0.5150604687984053,0.06,0.07564638103646669,53278636.834639154,Monthly total product inventories in Saudi Arabia in kb,oil_products
+0,-4.040758451300799,0.5,0.5193505163720888,1411944.980518801,Monthly gasoline inventories in Iraq in kb,oil_products
+0,-0.5921633053907973,0.33,0.37085994199384514,871511.7922578868,Monthly middle distillate inventories in Iraq in kb,oil_products
+0,0.013804845278701294,0.27,0.34887529492636266,92028.14551439123,Monthly fuel oil inventories in Iraq in kb,oil_products
+0,-1.4357348887076475,0.23,0.2620408668531336,7134061.666166399,Monthly total product inventories in Iraq in kb,oil_products
+0,1.0,0.0,0.0,0.0,Monthly gasoline inventories in Oman in kb,oil_products
+0,-7.763847715143099e+24,0.0,0.00041160783362416913,0.1003453798246952,Monthly middle distillate inventories in Oman in kb,oil_products
+0,1.0,0.0,0.0,0.0,Monthly fuel oil inventories in Oman in kb,oil_products
+0,1.0,0.0,0.0,0.0,Monthly total product inventories in Oman in kb,oil_products
+0,-0.16987534988680086,0.11,0.39118773483142694,174894.0315386808,Monthly gasoline inventories in Argentina in kb,oil_products
+0,-0.1476459821908802,0.33,2.2397935011671652,765633.2133876181,Monthly middle distillate inventories in Argentina in kb,oil_products
+0,-1.3108490287482115,0.49,1.2393819118197476,249752.6342636956,Monthly fuel oil inventories in Argentina in kb,oil_products
+0,-0.22331460314855023,0.58,0.614818178684301,357454069.05263156,Monthly total product inventories in Argentina in kb,oil_products
+0,-0.032623975476073985,0.17,0.27144978781327617,54636288.50567267,Monthly gasoline inventories in Brazil in kb,oil_products
+0,-0.6324155599863022,0.19,0.25607310637465125,27492234.54949198,Monthly middle distillate inventories in Brazil in kb,oil_products
+0,-0.13997237907815552,0.18,0.2597366071671155,7853462.168556475,Monthly fuel oil inventories in Brazil in kb,oil_products
+0,-0.29366156037237556,0.17,0.27561928231857563,467060492.1646588,Monthly total product inventories in Brazil in kb,oil_products
+0,-1.0186607532768153,0.18,0.2091232002243223,153658.35060480435,Monthly gasoline inventories in Chile in kb,oil_products
+0,-0.6447446886848378,0.17,0.20048613776353447,225095.07620468605,Monthly middle distillate inventories in Chile in kb,oil_products
+0,-3.5826802856526676,0.59,0.7183149114870083,47068.1653951613,Monthly fuel oil inventories in Chile in kb,oil_products
+0,-2.766024801261132,0.14,0.16883375137605616,1526364.7103527316,Monthly total product inventories in Chile in kb,oil_products
+0,-14.493933687409365,0.76,0.9226909940799843,461638.694141416,Monthly gasoline inventories in Venezuela in kb,oil_products
+0,-0.10526035163662639,0.04,0.0829066532776057,32428.743902439026,Monthly middle distillate inventories in Venezuela in kb,oil_products
+0,-0.1917129163681337,0.09,0.17779031319509617,7071822.902439024,Monthly fuel oil inventories in Venezuela in kb,oil_products
+0,-0.011984447380254837,0.04,0.07306306804183149,4723420.780689017,Monthly total product inventories in Venezuela in kb,oil_products
+0,-1.3636543428727208,0.26,0.28270676449052573,255198.7733688553,Monthly gasoline inventories in Algeria in kb,oil_products
+0,-1.130795470118334,0.3,0.3447646335770694,1003115.5290793991,Monthly middle distillate inventories in Algeria in kb,oil_products
+0,-0.2074895065008835,0.24,0.35429416352718185,113322.87528004708,Monthly fuel oil inventories in Algeria in kb,oil_products
+0,-1.4927670736475909,0.2,0.23085838103327364,4570350.955134089,Monthly total product inventories in Algeria in kb,oil_products
+0,-0.06703642226203721,0.47,0.6446563617701817,75482796.24390244,Monthly gasoline inventories in Nigeria in kb,oil_products
+0,-2.8491804457790986,0.78,0.8271251360439025,4272036.1273214,Monthly middle distillate inventories in Nigeria in kb,oil_products
+0,-2.166629994061538,8.39,15.108387910601385,419609.84146341466,Monthly fuel oil inventories in Nigeria in kb,oil_products
+0,-0.24855820861050493,0.28,0.36700910175594015,129366436.97328253,Monthly total product inventories in Nigeria in kb,oil_products
+0,-0.2540643386717283,0.31,0.4009192476839652,1303772.4263772147,Monthly gasoline inventories in South Africa in kb,oil_products
+0,-0.08502238672696194,0.19,0.2636902525769167,583634.6782077826,Monthly middle distillate inventories in South Africa in kb,oil_products
+0,-1.6492491198538661,0.43,0.5503492199049507,95804.78961382338,Monthly fuel oil inventories in South Africa in kb,oil_products
+0,-1.1355862316179524,0.16,0.19940808467320775,2445746.941879258,Monthly total product inventories in South Africa in kb,oil_products
+0,-0.17424186834512922,1.01,2.0346142033213206,122236.48607450732,Monthly gasoline inventories in Tunisia in kb,oil_products
+0,-0.01877895629570614,0.69,0.8772078391303862,684847.3058444787,Monthly middle distillate inventories in Tunisia in kb,oil_products
+0,-12.2916873617557,0.69,0.7608508844072047,144018.35559036018,Monthly fuel oil inventories in Tunisia in kb,oil_products
+0,-2.443840054547204,0.55,0.7145848422392505,4457801.017658248,Monthly total product inventories in Tunisia in kb,oil_products
+0,-1.776181174359706,0.23,0.24922625866309137,104512.63767910958,Weekly gasoline inventories in ARA in kt,oil_products
+0,-1.570200053644661,0.28,0.3520514432277552,361766.8461538461,Weekly middle distillate inventories in ARA in kt,oil_products
+0,-0.3130902870845269,0.12,0.13925975135958613,18438.998749846425,Weekly jet/kero inventories in ARA in kt,oil_products
+0,-0.08501888526476664,0.3,0.38568089586712984,13334.875600411791,Weekly naphtha inventories in ARA in kt,oil_products
+0,-2.2022883078850835,0.22,0.2440404465996908,118106.51080532976,Weekly fuel oil inventories in ARA in kt,oil_products
+0,-2.0263499592302536,0.11,0.12603894850653657,39598470.484398186,Weekly crude inventories in ARA in kb,crude_oil
+0,-1.8396687502619637,0.15,0.1723683058031165,7.198898561161178,Weekly light distillate inventories in Singapore in Mb,oil_products
+0,-0.9475091750463691,0.4,0.4801092833103723,14.609606182793673,Weekly middle distillates inventories in Singapore in Mb,oil_products
+0,-1.3200672254092236,0.15,0.181456651163357,11.703157321303872,Weekly fuel oil inventories in Singapore in Mb,oil_products
+0,-0.12544819172536692,0.1,0.12613173872626038,711444.3453066073,Weekly gasoline inventories in Mexico in kb,oil_products
+0,-0.03467392029627869,0.15,0.26197264919343943,280806.5574812816,Weekly diesel inventories in Mexico in kb,oil_products
+0,-0.4310437645758345,0.13,0.20370743892655546,22786.853232332585,Weekly jet/kero inventories in Mexico in kb,oil_products
+0,-0.8987177125907886,0.22,0.2690014260158796,69847.51271100678,Weekly fuel oil inventories in Mexico in kb,oil_products
+0,-0.7125049003290878,0.13,0.16063741092617878,63001075266.37769,Weekly gasoline inventories in Japan in kl ,oil_products
+0,-2.4234907469108817,0.15,0.1861389096091253,57920842650.96637,Weekly naphtha inventories in Japan in kl ,oil_products
+0,-2.5316715696132293,0.13,0.15591614120444713,13155781749.184141,Weekly jet/kero inventories in Japan in kl,oil_products
+0,-1.1530494941087261,0.17,0.19966711140933976,68755889441.7335,Weekly diesel inventories in Japan in kl,oil_products
+0,0.02725376716762773,0.29,0.3821324033616659,314667576053.3998,Weekly kerosene inventories in Japan in kl ,oil_products
+0,-12.20595443368703,0.22,0.23787511109311515,6.751134143438365,Weekly fuel oil inventories in Japan in mb,oil_products
+0,-9.13445564953128,0.34,0.3656085614392435,13770145702050.125,Weekly crude oil inventories in Japan in kl ,crude_oil
+0,-0.9278854565845494,0.17,0.19001343343749055,1.8064031858401206,Weekly light distillates inventories in Fujairah in Mb,oil_products
+0,-0.3680354642843182,0.33,0.4453133164264377,0.7746709135152422,Weekly middle distillate inventories in Fujairah in Mb,oil_products
+0,0.1670042331332755,0.12,0.15130878275550888,2.157504089753866,Weekly residual and heavy distillates inventories in Fujairah in Mb,oil_products
+0,-1.2376095739973842,0.18,0.21395707388087376,13.951944552526898,Weekly total product inventories in Fujairah in Mb,oil_products
+0,-2.1033497484823984,0.08,0.09090455552321591,494642451.52451205,Weekly gasoline inventories in United States in kb,oil_products
+0,0.011166610884586925,0.1,0.12420475712528503,277864914.3688596,Weekly diesel inventories in United States in kb,oil_products
+0,-0.03231160469029115,0.05,0.06838895669544454,7153984.867627386,Weekly jet/kero inventories in United States in kb,oil_products
+0,-5.030593309594361,0.26,0.2808833168209365,62839128.48806154,Weekly residual fuel oil inventories in United States in kb,oil_products
+0,-7.071525336288287,0.13,0.14714226010604536,32608856268.20119,Weekly total product inventories in United States in kb,crude_oil
+0,-13.102210542107507,0.25,0.27010020697064496,13691616277.928295,Weekly crude oil inventories in United States in kb,crude_oil
+0,-1.5182313607260127,0.18,0.1988903468939031,3321.540797813783,Monthly fuel oil refinery production in Mexico in kb/d,oil_products
+0,-18.284765102385318,0.46,0.4884806370038815,219127.8290540358,Monthly oil products refinery production in Mexico in kb/d,oil_products
+0,-5.600958336912383,0.14,0.15227716472939995,63711.97163845706,Monthly oil products demand in Mexico in kb/d,oil_products
+0,-9.47609958702021,0.4,0.4260772137775925,14130.35150463131,Monthly gasoline refinery production in Mexico in kb/d,oil_products
+0,-11.351626755568567,0.55,0.560712582876342,371.2385324484549,Monthly jet/kero refinery production in Mexico in kb/d,oil_products
+0,-11.534981096220955,0.6,0.6466291746221474,10633.951039760552,Monthly diesel refinery production in Mexico in kb/d,oil_products
+0,0.28223186957799395,0.06,0.07548142784739544,485.161409007785,Monthly LPG demand in Mexico in kb/d,NGLs
+0,-19.16805991331717,0.3,0.35165783316123445,1238.3075365267778,Monthly LPG refinery production in Mexico in kb/d,NGLs
+0,-1.0788346505316242,0.07,0.08203082878500226,4188.378896723898,Monthly gasoline demand in Mexico in kb/d,oil_products
+0,-0.17126508350542946,0.25,0.3399260243436341,50.86795401217324,Monthly other oil products demand in Mexico in kb/d,oil_products
+0,-3.071062815711085,0.26,0.2864235212476554,1200.818157522126,Monthly other oil products refinery production in Mexico in kb/d,oil_products
+0,-3.56038573631123,0.74,1.5228638095289353,2007.0127425303822,Monthly fuel oil demand in Mexico in kb/d,oil_products
+0,-10.46595638853768,0.38,0.4044588405239696,1379.5792396733643,Monthly jet/kero demand in Mexico in kb/d,oil_products
+0,-0.9016433689134695,0.11,0.1435649908509683,6016.092401475123,Monthly gasoline imports to Mexico in kb/d,oil_products
+0,-2.2843923771889914e+31,2.07,2.149406055050333,18.020678385492868,Monthly fuel oil imports to Mexico in kb/d,oil_products
+0,-1.427564480327511,0.18,0.20062325818651286,6193.630774325691,Monthly diesel demand in Mexico in kb/d,oil_products
+0,-4.139999373553566,0.47,0.4940184042543941,864.1502444903902,Monthly jet/kero imports to Mexico in kb/d,oil_products
+0,-4.3095562698825,0.2,0.22086493517943426,56855.793673101885,Monthly oil products imports to Mexico in kb/d,oil_products
+0,0.16827566508242986,0.11,0.12950870391557887,750.1717715661706,Monthly LPG imports to Mexico in kb/d,NGLs
+0,-0.8302750637050087,0.24,0.26508961620465954,5337.034796073343,Monthly diesel imports to Mexico in kb/d,oil_products
+0,-37.76356825129109,0.13,0.1398687508601428,51374.40618897225,Monthly crude oil production in Mexico in kb/d,crude_oil
+0,-2.4834936201960915,0.12,0.14393224135956628,520.3773153920149,Monthly NGLs production in Mexico in kb/d,NGLs
+0,-3.0013567812751623,0.54,0.5717425252692773,20920.784151530792,Monthly condensate production in Mexico in kb/d,condensate
+0,-2.2055929629131086,0.22,0.273836935408435,50874.99029914437,Monthly crude oil exports for Mexico in kb/d,crude_oil
+0,-3.9172191536644485,0.17,0.18777270674465585,13301.25961026273,Monthly crude oil production in Mexico: Ku-Maloob-Zaap asset in kb/d,crude_oil
+0,-1.4929597768624916,0.18,0.212057155444145,685.8108178005418,Monthly crude oil production in Mexico: Abkatun-Pol-Chuc asset in kb/d,crude_oil
+0,-6.125463257439774,0.14,0.14717414570449586,562.4592903760241,Monthly crude oil production in Mexico: Cantarell asset in kb/d,crude_oil
+0,-56.488182954818505,0.46,0.5908136500180603,27378.886647564952,Monthly crude oil production in Mexico: Litoral del Tabasco asset in kb/d,crude_oil
+0,-261.11435655626536,0.55,0.6141069736707824,1970.2646536738682,Monthly crude oil production in Mexico: Samaria-Luna asset in kb/d,crude_oil
+0,-2.4177843033690176,0.44,0.5082426825884508,8179.474426763127,Monthly crude oil production in Mexico: Bellota-Jujo asset in kb/d,crude_oil
+0,-99.9894931786105,0.28,0.3344711291919125,146.03017628171605,Monthly crude oil production in Mexico: Cinco Presidentes asset in kb/d,crude_oil
+0,-1.8425267591376282,0.09,0.1100491234413517,11.69559816921801,Monthly crude oil production in Mexico: Macuspana-Muspac asset in kb/d,crude_oil
+0,-5.244598110415894e+29,0.22,0.2550387950102739,59.576521145804506,Monthly crude oil production in Mexico: Terciario del Golfo asset in kb/d,crude_oil
+0,-0.8003513896592278,0.06,0.08528454506114458,17.12445725953134,Monthly crude oil production in Mexico: Poza Rica-Altamira asset in kb/d,crude_oil
+0,-4.901235669775139,0.24,0.26915299990919317,16.12399860930161,Monthly crude oil production in Mexico: Veracruz asset in kb/d,crude_oil
+0,-1.4913181219119133e+28,0.01,0.013778447285427185,4.595478764155981e-05,Monthly reconstituted crude refinery runs in Mexico: Tula in kb/d,crude_oil
+0,-2.249667752522032,0.76,0.8263942393521391,396.2092986651015,Monthly super-light crude refinery runs in Mexico: Tula in kb/d,crude_oil
+0,-2.582723209644411,0.79,1.4801020934703304,4324.364578750127,Monthly light crude refinery runs in Mexico: Tula in kb/d,crude_oil
+0,-0.9109464338106634,0.54,1.0488025599721942,4460.883268833896,Monthly refinery runs in Mexico: Tula in kb/d,crude_oil
+0,-0.0840167730306065,0.52,2.2303865361523685,184.78388894853222,Monthly heavy crude refinery runs in Mexico: Tula in kb/d,crude_oil
+0,-111.08148148148148,0.0,3.6300406964639e-15,7.95750290459942e-28,Monthly reconstituted crude refinery runs in Mexico: Salina Cruz in kb/d,crude_oil
+0,-5.874547078174334,0.83,0.9870929310609999,5878.457795373173,Monthly light crude refinery runs in Mexico: Salina Cruz in kb/d,crude_oil
+0,-1.0393273985336182,0.54,0.7117494633157023,37.71568353246754,Monthly super-light crude refinery runs in Mexico: Salamanca in kb/d,crude_oil
+0,-7.932556896244607,0.34,0.39926866678432693,0.07909366070412276,Monthly reconstituted crude refinery runs in Mexico: Salamanca in kb/d,crude_oil
+0,-3.54564773100479,0.84,1.1177828590724588,1479.8058943366277,Monthly heavy crude refinery runs in Mexico: Salina Cruz in kb/d,crude_oil
+0,-7.278721337204576,0.92,1.1130542457031347,16496.688915351428,Monthly runs in Mexico: Salina Cruz in kb/d,crude_oil
+0,-3.0749442061661174,0.84,1.8565204377081164,3093.9367162994517,Monthly light crude refinery runs in Mexico: Salamanca in kb/d,crude_oil
+0,-0.4619655310819084,0.53,1.7103832349418233,84.61090843991575,Monthly heavy crude refinery runs in Mexico: Salamanca in kb/d,crude_oil
+0,-3.769884850693484,0.83,1.9752791540427117,5174.553742983122,Monthly refinery runs in Mexico: Salamanca in kb/d,crude_oil
+0,-3.6506039053797696,1.98,3.3923328241149444,772.0978451157695,Monthly light crude refinery runs in Mexico: Minatitlan in kb/d,crude_oil
+0,-0.05205015161748294,0.74,1.7937213612874747,1384.803238680338,Monthly runs in Mexico: Minatitlan in kb/d,crude_oil
+0,-0.17686336616624088,1.16,2.441973917772631,1685.139791767323,Monthly heavy crude refinery runs in Mexico: Minatitlan in kb/d,crude_oil
+0,-0.010445608476356227,1.39,3.738048755066673,902.7326798484893,Monthly heavy crude refinery runs in Mexico: Madero in kb/d,crude_oil
+0,-12.85717973612321,1.11,1.1396250362688276,1.8862609601561762,Monthly light crude refinery runs in Mexico: Madero in kb/d,crude_oil
+0,-0.05030933876050181,1.45,3.93457861247125,938.5770470581245,Monthly refinery runs in Mexico: Madero in kb/d,crude_oil
+0,-5.23468423824426e+30,0.27,0.29129899730611925,0.06452246479261765,Monthly other streams runs in Mexico: Cadereyta in kb/d,crude_oil
+0,-1.6434858330982012,0.24,0.2755253296261828,1486.6823361938964,Monthly refinery runs in Mexico: Cadereyta in kb/d,crude_oil
+0,-0.0795788271755169,0.18,0.21332954015044953,149.67789253813464,Monthly heavy crude refinery runs in Mexico: Cadereyta in kb/d,crude_oil
+0,-5.632415449078153,0.64,0.7634742743707128,1086.6987374138682,Monthly light crude refinery runs in Mexico: Cadereyta in kb/d,crude_oil
+0,-0.7929763657854443,0.24,0.2887357306093715,29858.33982614222,Monthly refinery runs in Mexico in kb/d,crude_oil
+0,0.00011713850267125459,0.1,0.12308684900947599,710313.3553625308,Monthly crude oil exports from Saudi Arabia in kb/d,crude_oil
+0,-0.47858548855538796,0.11,0.12928022543122417,93213.80817260397,Monthly oil products demand in Saudi Arabia in kb/d,oil_products
+0,-0.1978610243899399,0.14,0.1746799021884098,10272.140713504003,Monthly fuel oil demand in Saudi Arabia in kb/d,oil_products
+0,0.5333264484701508,0.13,0.16040844076646998,8703.253250813037,Monthly other oil products demand in Saudi Arabia in kb/d,oil_products
+0,-25.989792302267087,6.55,8.121241994532086,294.4090609298318,Monthly naphtha demand in Saudi Arabia in kb/d,oil_products
+0,-1.0933612293051609,0.16,0.19265912981434635,147.48584293609676,Monthly LPG demand in Saudi Arabia in kb/d,NGLs
+0,-0.8575380442146576,0.8,1.424309807719396,1485.636537795386,Monthly kerosene demand in Saudi Arabia in kb/d,oil_products
+0,-1.9271897625210372,0.19,0.2780193846763965,8995.439889832614,Monthly gasoline demand in Saudi Arabia in kb/d,oil_products
+0,-2.8149231903059366,0.17,0.19991891450074697,14090.535586757946,Monthly gasoil and diesel demand in Saudi Arabia in kb/d,oil_products
+0,0.2983936625449852,0.05,0.06168947256638371,8204.973881174654,Monthly oil products demand in Iran in kb/d,oil_products
+0,0.3661350483696848,0.07,0.09604724557589102,198500.61784255013,Monthly oil products demand in Middle East excluding Iran in kb/d,oil_products
+0,-0.06475261038121083,0.3,0.3855120552454551,175.40576963493018,Monthly oil products demand in Bahrain in kb/d,oil_products
+0,-0.0043752305127380264,0.15,0.19226697774276813,428.96300952690933,Monthly oil products demand in Oman in kb/d,oil_products
+0,-0.4936307917367373,0.22,0.24497650344161404,6389.748975097724,Monthly oil products demand in Kuwait in kb/d,oil_products
+0,-0.47858548855538796,0.11,0.12928022543122417,93213.80817260397,Monthly oil products demand in Saudi Arabia in kb/d,oil_products
+0,-0.002469210008326339,0.12,0.1564873399446097,13896.061812332433,Monthly oil products supply in Iraq in kb/d,oil_products
+0,-1.7329048346433584,0.05,0.05972157265424679,35.8579719589344,Monthly oil products demand in Yemen in kb/d,oil_products
+0,-0.827830519814192,0.11,0.12830777371521468,50041.03045910765,Monthly oil products supply in Iran in kb/d,oil_products
+0,-0.309527777626718,0.16,0.25384220858261985,1354.6396904374753,Monthly oil products supply in Oman in kb/d,oil_products
+0,-0.2004784483010198,0.24,0.3176250863186817,46171.63846164897,Monthly oil products supply in Kuwait in kb/d,oil_products
+0,-0.07333211442085474,0.07,0.08644276874209297,319018.07710054907,Monthly oil products demand in Middle East in kb/d,oil_products
+0,-0.8512990242754623,0.12,0.1605922874841504,869.3688174523452,Monthly oil products demand in Israel in kb/d,oil_products
+0,-8.064842800498987,0.08,0.09024438529469551,36.588521161506456,Monthly oil products demand in Syria in kb/d,oil_products
+0,-0.4058265282478466,0.13,0.1997278118630133,1504.2482821073306,Monthly oil products supply in Bahrain in kb/d,oil_products
+0,-0.9554136495626613,0.14,0.16911031249979047,14131.856222359578,Monthly oil products demand in United Arab Emirates in kb/d,oil_products
+0,0.22828266761102334,0.21,0.2775782813978295,24588.129698497727,Monthly oil products demand in Iraq in kb/d,oil_products
+0,-2.8678588352192236,0.19,0.21790817683194094,247828.61472260073,Monthly oil products supply in Saudi Arabia in kb/d,oil_products
+0,-5.157062952912455,0.28,0.32629028830881207,40184.29497666018,Monthly oil products supply in Qatar in kb/d,oil_products
+0,-3.951302749055966,0.21,0.24536998105027813,20654.367695543246,Monthly oil products supply in United Arab Emirates in kb/d,oil_products
+0,-0.24796373015230055,0.08,0.11042007159832332,386162.1480366074,Monthly oil products supply in Middle East excluding Iran in kb/d,oil_products
+0,-1.7366495555976282,0.13,0.1453556543453504,1232830.3168295934,Monthly fuel oil supply in Middle East in kb/d,oil_products
+0,-6.604876780761358,0.1,0.1130926174994209,169.28111715673532,Monthly oil products demand in Jordan in kb/d,oil_products
+0,-0.689604942512593,0.23,0.2617653842489157,4962.965567048183,Monthly oil products demand in Qatar in kb/d,oil_products
+0,-1.5679025599260084,2.47,3.565521607893804,2690.23234760761,Monthly crude oil exports from China in kb/d,crude_oil
+0,-0.5465584212523731,10.93,42.30766758823317,0.0002668888166341474,Monthly crude oil stock changes in China as a %,crude_oil
+0,-0.7643498409701495,0.03,0.035652077588109884,22987.071477879475,Monthly crude oil production in China in kb/d,crude_oil
+0,-2.113153264687277,0.07,0.0823780137902692,1544557.6987747254,Monthly runs adjusted by EA in China in kb/d,crude_oil
+0,0.049394004681067805,6.96,27.089667281173245,205396.0622650726,Monthly crude oil implied stock change in China in kb/d,crude_oil
+0,-0.24363533390576353,0.09,0.12439011385091508,179057.04200959209,Monthly gasoline including aromatics demand in China in kb/d,oil_products
+0,-1.753550094624163,0.12,0.1403413369947708,317886.1142672171,Monthly diesel (including light cycle oil) demand in China in kb/d,oil_products
+0,-1.7334123388663727,0.53,0.8295385803568083,118590.71821798613,Monthly jet/kero demand in China in kb/d,oil_products
+0,-3.58773572830915,0.25,0.2745760654091175,88798.13775618316,Monthly fuel oil demand in China in kb/d,oil_products
+0,-1.5077512401156072,0.47,0.5651795937461523,119155.39813975937,Monthly bitumen demand in China in kb/d,oil_products
+0,-4.28855944592948,0.41,0.43147693835089407,27574.42579200243,Monthly fuel oil exports from China in kb/d,oil_products
+0,-2.676512391213491,0.38,0.43529020881750163,131.48599558797358,Monthly LPG exports from China in kb/d,NGLs
+0,-0.3086241965223515,0.75,1.8512982641034423,30.843889450829337,Monthly naphtha exports from China in kb/d,oil_products
+0,-0.008519157630864749,2337.29,6983.092003811461,78.09626972870451,Monthly gasoline imports to China in kb/d,oil_products
+0,-0.41401083277986994,13.36,35.61385011348762,198.68230068421616,Monthly diesel imports to China in kb/d,oil_products
+0,-4.2932745271943125,8.93,20.10976925531944,3054.2856872803163,Monthly jet/kero imports in China in kb/d,oil_products
+0,0.07344032715097826,0.44,0.5432184955296085,24917.648500931413,Monthly fuel oil imports to China in kb/d,oil_products
+0,0.3483659467964648,0.13,0.17642045497280817,29184.147704345,Monthly LPG imports to China in kb/d,NGLs
+0,-2.118869086371174,0.41,0.45531242462442467,19946.049480726848,Monthly naphtha imports to China in kb/d,oil_products
+0,-1.1545061209481555,0.47,0.5173959069844832,51765.71308813708,Monthly bitumen imports to China in kb/d,oil_products
+0,-0.05017424397220949,0.44,0.6266283739482437,20.049237158949467,Monthly bitumen exports from China in kb/d,oil_products
+0,-0.7345022563514214,4.35,13.982971975805663,0.00037781660598896235,Monthly gasoline stock change in China in %,oil_products
+0,-5.244163268992639,2.09,2.6567372064953507,0.0025387999819641983,Monthly diesel stock change in China as a %,oil_products
+0,-0.8104358974976196,0.05,0.0577203866488079,1.9779461732836927,Monthly kerosene stock level in China in mb,oil_products
+0,-1.98645921747555,2.73,4.035443242158544,0.0008547083884709365,Monthly kerosene stock change in China as a %,oil_products
+0,-10.004581694003017,3.89,5.493595879853611,0.002655502310944383,Monthly total products stock change in China as a %,oil_products
+0,-1.5778785079488964,0.08,0.08714958057332771,60220.564308229186,Monthly oil products demand in Brazil in kb/d,oil_products
+0,-2.3681217767598777,0.12,0.13916515809136887,223159.91036473465,Monthly crude oil production in Brazil in kb/d,crude_oil
+0,-0.18762893194932984,0.1,0.11435172480216016,83.74910254892586,Monthly NGLs production in Brazil in kb/d,NGLs
+0,0.9121280952395001,0.13,0.1758818081649528,11452.221604959164,Monthly biofuels production in Brazil in kb/d,biofuels
+0,-1.5956770444816595,0.68,0.7348588671362912,581.4155791674232,Monthly fuel oil demand in Brazil in kb/d,oil_products
+0,-26.963560002981716,0.87,0.9197990280722176,9640.263623750645,Monthly jet/kero demand in Brazil in kb/d,oil_products
+0,-2.1854252846626325,0.12,0.12594552599305903,21288.188611176683,Monthly diesel demand in Brazil in kb/d,oil_products
+0,-1.0918833527623342,0.11,0.1269877287287603,9780.255399764967,Monthly gasoline demand in Brazil in kb/d,oil_products
+0,-1.3864606654281464,0.26,0.33193054096350383,6745.9549328007015,Monthly ethanol demand in Brazil in kb/d,biofuels
+0,-0.5359195268868624,0.24,0.2973857053623716,223764.18241841823,Monthly crude oil exports from Brazil in kb/d,crude_oil
+0,-2.335877251760243,0.51,0.5626392553768721,25293.971931417564,Monthly crude oil imports to Brazil in kb/d,crude_oil
+0,-0.4610221681616513,0.28,0.39780184841517563,8452.136508361986,Monthly fuel oil exports from Brazil in kb/d,oil_products
+0,-0.5593884526876896,0.18,0.22609134742460016,22501.31904658682,Monthly oil products imports to Brazil in kb/d,oil_products
+0,-0.4776938065656764,0.23,0.27649758110784595,6526.7720669545515,Monthly diesel imports to Brazil in kb/d,oil_products
+0,-0.2320095469808836,0.57,1.2365320245982345,3509.004009251211,Monthly naphtha imports to Brazil in kb/d,oil_products
+0,-0.1405021707316334,0.66,0.8954150813420079,1512.1065126893998,Monthly gasoline imports to Brazil in kb/d,oil_products
+0,-1.6429187749587855,0.08,0.09246066783445765,38457.38779154907,Monthly oil products refinery production in Brazil in kb/d,oil_products
+0,-0.25993418344626606,0.05,0.06255487871541177,2675.823626895939,Monthly Brazil diesel production in kb/d,oil_products
+0,-0.0012043622582278424,0.08,0.09865523014335564,795.7475592044254,Monthly fuel oil refinery production in Brazil in kb/d,oil_products
+0,-3.9092477417849,0.37,0.39480411065552684,1333.143941310547,Monthly jet/kero refinery production in Brazil in kb/d,oil_products
+0,-2.4614329651834286,0.13,0.14356558322439192,5087.493518508723,Monthly gasoline refinery production in Brazil in kb/d,oil_products
+0,-0.5773457210317245,0.06,0.06893280792026316,16185.641320917022,Monthly refinery runs in Brazil in kb/d,crude_oil
+0,-3.080379242593218,0.16,0.1712178986488164,4339.866260183588,Monthly refinery runs in Kazakhstan in kb/d,oil_products
+0,-1.3368492550534672,0.31,0.4198570677977396,189.78786968128526,Monthly fuel oil refinery production in Kazakhstan in kb/d,oil_products
+0,-1.6346035081218946,0.17,0.19428150057230736,516.3285013395158,Monthly diesel refinery production in Kazakhstan in kb/d,oil_products
+0,-0.9331003804869735,0.13,0.14471696907577433,341.07652173767326,Monthly gasoline refinery production in Kazakhstan in kb/d,oil_products
+0,-0.2029568824731347,0.04,0.0523100372323255,132478.27196222503,Monthly crude oil exports from Former Soviet Union in kb/d,crude_oil
+0,-1.4995156560877803,0.08,0.09463547441549285,222473.57120763618,Monthly crude oil exports from Russia in kb/d,crude_oil
+0,-0.5500223159680109,0.23,0.284959826530124,34525.016142703105,Monthly fuel oil exports from Former Soviet Union in kb/d,oil_products
+0,-1.8503404916646824,0.37,0.4916783350034408,27592.192771569957,Monthly naphtha exports from Former Soviet Union in kb/d,oil_products
+0,-0.05358429338468329,1.2,3.060821239859481,245.57523912952192,Monthly jet/kero exports from Former Soviet Union in kb/d,oil_products
+0,0.19574245965386272,0.1,0.13581266552131943,19320.705108412098,Monthly diesel exports from Former Soviet Union in kb/d,oil_products
+0,0.02225758349859308,0.26,0.35356351165466554,4336.857652032176,Monthly gasoline exports from Former Soviet Union in kb/d,oil_products
+0,-0.5299030905065423,0.11,0.1251938525151684,74811.8431845274,Monthly gasoline demand in Europe in kb/d,oil_products
+0,-1.449314117364152,0.08,0.0873068366456583,321694.3624949868,Monthly diesel demand in Europe in kb/d,oil_products
+0,-18.817707984792683,0.23,0.2516415993506884,36284.5337697561,Monthly fuel oil demand in Europe in kb/d,oil_products
+0,0.2645584417548086,0.04,0.04873854260562324,2854.58423457654,Monthly LPG demand for Europe in kb/d,NGLs
+0,-10.455947335858628,0.67,0.7522116589074761,1229510.7230926896,Monthly jet/kero demand in Europe in kb/d,oil_products
+0,-7.846721752590685,0.14,0.14647933995723,4414601.318833018,Monthly oil products demand in Europe in kb/d,oil_products
+0,-6.651147153886499,0.1,0.1087139151766249,1969023.530003996,Monthly total products supply for Europe in kb/d,oil_products
+0,-1.0241876105159484,0.08,0.10262030032925969,27101.24838753613,Monthly refinery runs in Germany in kb/d,crude_oil
+0,-1.8363608117016286,0.27,0.29873117622311013,71635.43307460513,Monthly refinery runs in France in kb/d,crude_oil
+0,-10.334735925275783,0.27,0.2905737644302589,144370.9926903644,Monthly refinery runs in Italy in kb/d,crude_oil
+0,-1.5301682671164052,0.12,0.16114167334786225,19365.072131635618,Monthly refinery runs in United Kingdom in kb/d,crude_oil
+0,-4.750077761460196,0.16,0.17149079294498543,48835.7823463045,Monthly refinery runs in Spain in kb/d,crude_oil
+0,-14.579891365472184,0.23,0.24481984894616238,4643.350015817442,Monthly gasoline demand in Australia in kb/d,oil_products
+0,-0.04898070629916096,0.05,0.053162693175500104,898.5842887415453,Monthly diesel demand in Australia in kb/d,oil_products
+0,-2.689525511752374,0.5,0.5395562465188605,5638.325746008348,Monthly jet/kero demand in Australia in kb/d,oil_products
+0,-20.38428404325763,0.28,0.3058321740799459,100245.42065507012,Monthly oil products demand in Australia in kb/d,oil_products
+0,-1.6931642650752252,0.11,0.1280959339852805,65.57403435979435,Monthly other oil products demand in Australia in kb/d,oil_products
+0,-0.9690658392760205,0.17,0.20215513557716866,232225.84850482247,Monthly total products exports from Former Soviet Union in kb/d,oil_products
+0,-4.550233151266324,0.14,0.1516559614737463,3743156.6086956523,Monthly crude oil field production in United States in kb/d,crude_oil
+0,0.7460685436016945,0.04,0.05779499898858452,97037.18541986763,Monthly hydrocarbon gas liquids gas processing plant production in United States in kb/d ,oil_products
+0,-5.134038145105441,0.18,0.1971288756819179,67098.7503441455,Monthly renewable fuels (including ethanol) net production (renewable fuels and oxygenate plants) in United States in kb/d ,biofuels
+0,0.31573175105676754,0.06,0.06268453449822291,1585189.9998146936,Monthly liquids refinery production in United States including weekly data in kb/d,oil_products
+0,-11.770032607987334,0.15,0.1553093101712903,1953979.6982391544,Monthly gasoline demand in United States including weekly data in kb/d,oil_products
+0,-3.5763014190406404,0.08,0.08665470662617619,122381.47931680857,Monthly distillates demand in United States including weekly data in kb/d,oil_products
+0,-23.973308547419606,0.48,0.5270577931310529,755880.4269704464,Monthly jet/kero demand in United States including weekly data in kb/d,oil_products
+0,-1.4091425840848886,0.26,0.28362050012303314,9531.880937954022,Monthly fuel oil demand in United States including weekly data in kb/d,oil_products
+0,-5.420695231322635,0.11,0.11640060270327848,417151.6278533087,Monthly other oil products demand in United States including weekly data in kb/d,oil_products
+0,-11.18418653512345,0.1,0.10336717702452325,4403471.674128682,Monthly oil products demand in United States including weekly data in kb/d,oil_products
+0,-35.213022737362216,0.22,0.22947806893617062,4946022.372961502,Monthly gasoline refinery production in United States including weekly data in kb/d,oil_products
+0,-8.622746465745728,0.15,0.16686227623852629,686424.713580444,Monthly distillates supply in United States including weekly data in kb/d,oil_products
+0,-33.948736429214605,0.75,0.7824474196928157,1729017.637385161,Monthly jet/kero refinery production in United States including weekly data in kb/d,oil_products
+0,-14.660284619431733,0.65,0.697982970769311,41069.87866363604,Monthly fuel oil supply in United States including weekly data in kb/d,oil_products
+0,-15.000277351206883,1.2,1.344294797962631,13419.343120425652,Monthly heating oil supply in United States including weekly data in kb/d,oil_products
+0,-2.3062399448140654,0.09,0.10110516220665174,240508.49700038342,Monthly diesel supply in United States including weekly data in kb/d,oil_products
+0,0.7323347362724257,0.03,0.04582624631378114,9625.293382843636,Monthly propane and propylene supply in United States including weekly data in kb/d,NGLs
+0,-3.670517407266856,0.21,0.240012929560561,51799.9523373739,Monthly gasoline exports from United States including weekly data in kb/d,oil_products
+0,-0.03558095768700187,0.13,0.16725769487583264,30395.089421589055,Monthly distillates exports from United States including weekly data in kb/d,oil_products
+0,-3.113510199118113,0.48,0.5571409774536823,5035.745178183287,Monthly fuel oil exports from United States including weekly data in kb/d,oil_products
+0,-0.19391733132925526,0.1,0.1182720171249685,40000.531907786935,Monthly propane exports from United States including weekly data in kb/d,NGLs
+0,-0.4003921280828324,0.18,0.2320436956111291,111825.81544652049,Monthly other oil products exports from United States including weekly data in kb/d,oil_products
+0,-1.9024905952339983,0.18,0.20238981247802507,487564.32805820496,Monthly oil products exports from United States including weekly data in kb/d,oil_products
+0,0.6376915387312507,0.07,0.09116625186583906,109081.54312718059,Monthly crude oil exports from United States including weekly data in kb/d,crude_oil
+0,-0.11733772763327943,0.18,0.21780196595288553,29772.37138818611,Monthly gasoline imports in United States including weekly data in kb/d,oil_products
+0,0.06135130354221574,0.3,0.3558465756169948,8198.414232662924,Monthly distillates imports in United States including weekly data in kb/d,oil_products
+0,-0.2541668616573447,0.44,0.5877218706173032,3418.401394772533,Monthly fuel oil imports to United States including weekly data in kb/d,oil_products
+0,-0.450517865627581,0.11,0.14116657595518387,15914.011690177345,Monthly other oil products imports to United States including weekly data in kb/d,oil_products
+0,-0.02249700134493615,0.1,0.13237592148948873,67637.87781052999,Monthly oil products imports to United States including weekly data in kb/d,oil_products
+0,-26.65110285808934,0.25,0.2723920979541189,3151294.2106515993,Monthly crude oil imports to United States including weekly data in kb/d,crude_oil
+0,-0.04966750036778289,0.77,1.6085663944135344,368.1732600905089,Monthly refinery unplanned outage for HT units in Asia Pacific in kb/d,oil_products
+0,-1.0695988288762939,0.56,0.5855829783979495,272.7460017733436,Monthly refinery planned outage for HT units in Latin America in kb/d,oil_products
+0,-0.019567226085357214,0.83,1.0989712527800641,6354.21043946226,Monthly refinery total outages for CDU units in Belarus in kb/d,oil_products
+0,0.06599600540853223,0.94,2.61797503793649,5578.952074524267,Monthly refinery total outages for RFMR units in Europe in kb/d,oil_products
+0,-0.9708906050751156,3.2,8.108828315790742,3385.411103342812,Monthly refinery planned outage for HCU units in Middle East in kb/d,oil_products
+0,-0.032301313575301194,0.02,0.08455475492564188,0.1080231713141809,Monthly refinery unplanned outage for ALK units in Africa in kb/d,oil_products
+0,-1.2954599681952668,3.21,8.914606933185938,36067.07767172581,Monthly refinery total outages for FCC units in PADD 3 in kb/d,oil_products
+0,-1.3764283633621006,0.07,0.07857437572600773,1.210848097904884,Monthly refinery planned outage for CDU units in Chad in kb/d,oil_products
+0,-1.7500000000000004,0.64,0.7977240352174656,4872.159090909091,Monthly refinery total outages for CDU units in Brunei in kb/d,oil_products
+0,-7.015193085607413,0.53,0.6153168032553109,365332.35302279535,Monthly refinery unplanned outage for all units in Latin America in kb/d,oil_products
+0,-0.2599817620012439,2.29,4.058688513741405,94347.79672735925,Monthly refinery total outages for OTHER in Middle East in kb/d,oil_products
+0,-0.7636125445816737,0.59,0.6777621849550538,376.8548120478723,Monthly refinery planned outage for HT units in Former Soviet Union in kb/d,oil_products
+0,-0.005572082497569797,0.44,0.5915964043289035,334597.6115865911,Monthly refinery total outages for OTHER in North America in kb/d,oil_products
+0,0.14513053698197886,1.9,4.872568880249456,116647.43826328676,Monthly refinery planned outage for CDU units in United States in kb/d,oil_products
+0,-0.031180201768557403,2.34,3.7070119810500097,2935.886370687941,Monthly refinery total outages for CDU units in PADD 4 in kb/d,oil_products
+0,-1.954098641896107,0.45,0.5207236203574792,341.9741000139215,Monthly refinery total outages for HT units in Middle East in kb/d,oil_products
+0,0.019985616058113664,1.45,4.181818258351464,1531.3451400478073,Monthly refinery unplanned outage for FCC units in Asia Pacific in kb/d,oil_products
+0,0.3379505045418687,0.8,1.2906371236607936,126714.61783489521,Monthly refinery total outages for CDU units in Russia in kb/d,oil_products
+0,-0.048454352411088975,4.46,10.95538417528014,17539.269151314304,Monthly refinery unplanned outage for CDU units in Middle East in kb/d,oil_products
+0,-1.4472209916846812,0.32,0.47535462396111666,110.64116285177474,Monthly refinery planned outage for HT units in Middle East in kb/d,oil_products
+0,-0.05183065976925394,1.41,2.8595559489414484,3990.102969465411,Monthly refinery planned outage for RFMR units in Former Soviet Union in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Nigeria in kb/d,oil_products
+0,-7236.840197987504,0.85,0.9722623326907088,638.9917729328268,Monthly refinery unplanned outage for HT units in Former Soviet Union in kb/d,oil_products
+0,-1.0753071113331,0.36,0.40966658446233445,226359.29874204798,Monthly refinery unplanned outage for CDU units in Former Soviet Union in kb/d,oil_products
+0,0.020196200110216167,1.57,2.9321132161858,240248.31427192412,Monthly refinery planned outages for CDU units in China in kb/d,oil_products
+0,-2.6675288827025323,1.69,3.311008369085508,133.61936355869184,Monthly refinery total outages for CDU units in Jordan in kb/d,oil_products
+0,-1.7389112903208335,1.34,1.6334661840238578,78.99981080309026,Monthly refinery total outages for CDU units in Congo in kb/d,oil_products
+0,-0.13834960530441553,1.39,2.7004600875776257,34.077060826608005,Monthly refinery unplanned outage for ALK units in Europe in kb/d,oil_products
+0,-1.9171832953564687,1.94,2.9398994069410636,307666.2891040673,Monthly refinery total outages for CDU units in PADD 3 in kb/d,oil_products
+0,-1.066697030144856,0.17,0.24011279517635298,1189.395165669881,Monthly refinery planned outage for CDU units in Netherlands in kb/d,oil_products
+0,-0.13415830739554546,1.33,2.2738317283572607,1571.1462693532624,Monthly refinery planned outage for CDU units in Pakistan in kb/d,oil_products
+0,-1.4475363452087016,1.07,2.1567337904148998,369.1003046587975,Monthly refinery unplanned outage for RFMR units in Latin America in kb/d,oil_products
+0,-0.009668847687546833,0.88,2.2812040874680517,3854.177526889412,Monthly refinery total outages for FCC units in PADD 2 in kb/d,oil_products
+0,0.008211696900336296,1.51,2.665354236303916,9537.481295350986,Monthly refinery total outages for CDU units in United Kingdom in kb/d,oil_products
+0,-1.666589492822597,1.47,3.3387855382554052,745598.4231377598,Monthly refinery total outages for CDU units in North America in kb/d,oil_products
+0,-5.68616992433366,0.4,0.48274657144436645,3531.3416522423177,Monthly refinery total outages in FCC units in Africa in kb/d,oil_products
+0,-0.394166975910484,0.82,1.5429178925123967,4635.9555568138485,Monthly refinery total outages for CDU units in Thailand in kb/d,oil_products
+0,-389.4951195082413,15.54,18.558887394796738,153609.45928413718,Monthly refinery total outages for CDU units in Denmark in kb/d,oil_products
+0,-1.7227730968126096,0.48,0.5084012592057805,710837.7791641343,Monthly refinery total estimated impact in Former Soviet Union in kb/d,oil_products
+0,-0.0983834748966832,0.11,0.11729857482580458,6648.607486799514,Monthly refinery total outages for OTHER in Africa in kb/d,oil_products
+0,-0.8317553166444998,0.75,0.922790213178023,9501.959706527206,Monthly refinery total outages for CDU units in PADD 5 in kb/d,oil_products
+0,-0.7987453355813621,1.17,1.3607705844392828,770.5703101142992,Monthly refinery total outages for CDU units in Syria in kb/d,oil_products
+0,-0.26923076923076894,0.85,1.8422647458873531,339.3939393939394,Monthly refinery total outages for CDU units in Uruguay in kb/d,oil_products
+0,-0.4439483062254861,10.16,36.05945220878721,8359.586309963412,Monthly refinery total outages for CDU units in Brazil in kb/d,oil_products
+0,-475.1506802903435,7.45,9.303769050007524,129635.09135435174,Monthly refinery total outages for CDU units in Israel in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Zambia in kb/d,oil_products
+0,-0.007492366549747276,2.25,3.027520765944121,500.31149298398395,Monthly refinery unplanned outage for HCU units in Middle East in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Sri Lanka in kb/d,oil_products
+0,-0.057250739555141816,0.29,0.322044297881342,233341.71737043877,Monthly refinery unplanned outage for all units in Former Soviet Union in kb/d,oil_products
+0,-0.3191354129412298,2.58,4.414668130688253,22692.636636575247,Monthly refinery planned outage for CDU units in Malaysia in kb/d,oil_products
+0,-27.609327835453275,0.9,0.9123390128174407,873.9162179197457,Monthly refinery total outages for CDU units in Jamaica in kb/d,oil_products
+0,-1.570775026518982,3.46,12.515712465170465,5614.753149423668,Monthly refinery planned outage for CDU units in Italy in kb/d,oil_products
+0,-0.9242240208895536,0.51,0.5179939231706828,1406.7226781358943,Monthly refinery planned outage for CDU units in Croatia in kb/d,oil_products
+0,-0.40319192231840395,3.44,5.7061883340469235,3487.9728235426073,Monthly refinery planned outage for RFMR units in Middle East in kb/d,oil_products
+0,0.43774230820605886,1.82,4.323101602352163,31818.164884841648,Monthly refinery total outages for CDU units in Japan in kb/d,oil_products
+0,-0.018883024926900305,4.22,8.718694680748603,808.1452129801949,Monthly refinery planned outage for ALK units in North America in kb/d,oil_products
+0,-2.1423275862603184,0.32,0.36092510025519225,5494.600875343882,Monthly refinery total outages for CDU units in Portugal in kb/d,oil_products
+0,-0.38272366167717786,0.55,0.6008746374958155,1316.9594490017698,Monthly refinery planned outage for CDU units in Chile in kb/d,oil_products
+0,-1.2628451489748902,5.79,8.51072983571429,222.19268700458403,Monthly refinery planned outage for ALK units in Latin America in kb/d,oil_products
+0,-1.0498810545324337,0.65,0.7368638673863868,16803.77739011486,Monthly refinery total outages for CDU units in Turkey in kb/d,oil_products
+0,-6.954219030152604,0.28,0.299170408688224,2018.605883969409,Monthly refinery planned outage for CDU units in Belgium in kb/d,oil_products
+0,-0.5214612430206935,1.01,1.539541707525898,18753.627363957,Monthly refinery total outages for HCU units in Asia Pacific in kb/d,oil_products
+0,-4.754778621756224,0.62,0.6373278379928183,15090.085190861091,Monthly refinery planned outage for CDU units in Norway in kb/d,oil_products
+0,-0.31486516998280045,3.69,7.020430642788414,114589.64646516152,Monthly refinery planned outage for CDU units in Middle East in kb/d,oil_products
+0,0.052621160111334664,0.54,0.6675353124327089,8298.20637129087,Monthly refinery planned outage for COK units in North America in kb/d,oil_products
+0,-692.1964224466406,25.15,29.377560858149742,315615.98675720417,Monthly refinery planned outage for CDU units in Denmark in kb/d,oil_products
+0,-1.6809394737002026,0.86,0.8779412920942011,1866.4997130612398,Monthly refinery unplanned outage for COK units in Asia Pacific in kb/d,oil_products
+0,-37.99232228579472,3.64,6.405630773854536,3285.0947554072213,Monthly refinery total outages for CDU units in Uzbekistan in kb/d,oil_products
+0,-0.523507199623682,0.73,0.7444961513793883,1410.816699165289,Monthly refinery total outages for CDU units in Chile in kb/d,oil_products
+0,-307.05679347826066,1.0,1.0,318.34186328017165,Monthly refinery total outages for CDU units in Gabon in kb/d,oil_products
+0,-5.599999999999998,0.23,0.24456864492549235,121.4821384850938,Monthly refinery planned outage for CDU units in Bahrain in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Senegal in kb/d,oil_products
+0,-2.0678731615523946,0.32,0.35831439033894985,5364.411601328613,Monthly refinery planned outage for CDU units in Portugal in kb/d,oil_products
+0,0.4683370025547371,4.0,12.861131516181711,14577.360583422214,Monthly refinery total outages for CDU units in Canada in kb/d,oil_products
+0,-1.3660600850918754,3.28,5.971467608366568,280.93559098293764,Monthly refinery planned outage for ALK units in Europe in kb/d,oil_products
+0,-0.02512940506776662,1.1,1.864945149364145,175.87783676943485,Monthly refinery planned outage for HCU units in Latin America in kb/d,oil_products
+0,-2.240815745100031,0.74,0.7651574714981704,4167.286031403756,Monthly refinery planned outage for CDU units in Czechia in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Tunisia in kb/d,oil_products
+0,-0.9072149547168185,6.56,12.844187529307128,227.74206911851786,Monthly refinery unplanned outage for ALK units in Latin America in kb/d,oil_products
+0,-0.05642019571279899,1.64,5.304770302201213,1580.041550572723,Monthly refinery total outages for CDU units in Argentina in kb/d,oil_products
+0,-1.0235043777582757,0.82,1.5994652701176078,387.7844905588011,Monthly refinery total outages for ALK units in Middle East in kb/d,oil_products
+0,-0.01578382753006613,2.18,3.0471543593181885,5.92845497456401,Monthly refinery planned outage for ALK units in Former Soviet Union in kb/d,oil_products
+0,-0.2564469624257768,3.63,8.71645972840881,2232.9935920130724,Monthly refinery total outages for CDU units in Poland in kb/d,oil_products
+0,-1.178073216674278,0.35,0.444474011891902,589.2582212691127,Monthly refinery planned outage for CDU units in Australia in kb/d,oil_products
+0,0.01974419420709128,1.25,3.300311798474977,181.5185670847694,Monthly refinery total outages for ALK units in Asia Pacific in kb/d,oil_products
+0,-3.4234657429601336,4.62,11.237970832869493,23448.192670327786,Monthly refinery total outages for FCC units in Latin America in kb/d,oil_products
+0,-0.6318435729007572,1.38,1.9465647337583765,24.43206174222959,Monthly refinery unplanned outage for ALK units in Asia Pacific in kb/d,oil_products
+0,-0.07579529564754561,1.34,5.026555873794113,17112.93098396641,Monthly refinery total outages for FCC units in Europe in kb/d,oil_products
+0,-0.0014853498769795692,0.35,0.48383579038738433,827.4788475181927,Monthly refinery total outages for CDU units in PADD 1 in kb/d,oil_products
+0,-1.1378565186958602,0.88,1.1449625926220073,2198.9967329206042,Monthly refinery total outages for CDU units in Greece in kb/d,oil_products
+0,0.014724384786847344,3.45,11.278639857934127,11016.588403052378,Monthly refinery total outages for CDU units in Germany in kb/d,oil_products
+0,-3.076077889208368,0.35,0.3762501341496615,111.32452063705622,Monthly refinery unplanned outage for HT units in Middle East in kb/d,oil_products
+0,-0.29989971139977745,21.28,40.75069805309639,1029.4217285775862,Monthly refinery total outages for CDU units in Libya in kb/d,oil_products
+0,-0.36680788956771027,0.58,0.6633416210995895,462.1059544914826,Monthly refinery planned outage for RFMR units in Latin America in kb/d,oil_products
+0,-1.1749431649749051,6.0,20.852664940981793,11234.865486210881,Monthly refinery total outages for CDU units in Spain in kb/d,oil_products
+0,-0.11101518456769943,3.04,5.511131167344498,63363.12035225458,Monthly refinery total outages for CDU units in Saudi Arabia in kb/d,oil_products
+0,-1.6711287356378541,5.72,15.127190526349388,1003328.2579739584,Monthly refinery planned outage for all units in Middle East in kb/d,oil_products
+0,0.14172252244735728,0.34,0.3724865574456483,1886211.7075058166,Monthly refinery planned outage for all units in Asia Pacific kb/d,oil_products
+0,-0.889520567155039,0.04,0.05481636799355967,30.205782091305736,Monthly refinery planned outage for CDU units in South Africa in kb/d,oil_products
+0,0.26118242500502964,0.4,0.5628681816123992,13155.778162422324,Monthly refinery total outages for COK units in North America in kb/d,oil_products
+0,-1.0402049322681481,2.3,3.49405522405238,2722.672878630214,Monthly refinery planned outage for CDU units in Mexico in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Tunisia in kb/d,oil_products
+0,-0.21996851824666108,0.66,1.3860518180223511,668.1494507494317,Monthly refinery total outages for CDU units in Kazakhstan in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Albania in kb/d,oil_products
+0,-0.6641766899901218,0.5,0.6401572461141272,845.1341300623299,Monthly refinery unplanned outage for COK units in Middle East in kb/d,oil_products
+0,-0.5185411604554622,0.55,0.5888218454689208,5094.959589477852,Monthly refinery planned outage for CDU units in United Arab Emirates in kb/d,oil_products
+0,0.18274776411387827,0.81,1.5713253241554879,2480.987304269377,Monthly refinery planned outage for RFMR units in Europe in kb/d,oil_products
+0,0.033039502117823805,1.2,1.715171283287795,326.0560621876456,Monthly refinery unplanned outage for COK units in Europe in kb/d,oil_products
+0,0.0375574232831174,0.73,1.9684325514831453,3807.3129657815266,Monthly refinery planned outage for HCU units in Europe in kb/d,oil_products
+0,-0.4717001090906461,1.11,1.7641541228924063,15406.289173067302,Monthly refinery planned outage for HCU units in Asia Pacific in kb/d,oil_products
+0,-0.5240794335510874,2.33,6.664661804579854,749.8448982148634,Monthly refinery planned outage for CDU units in Slovakia in kb/d,oil_products
+0,0.016298127680914987,0.76,1.1783209826165588,1391.917179550672,Monthly refinery total outages for CDU units in Oman in kb/d,oil_products
+0,-0.05261088920527479,0.78,2.5335521088779887,1488.5708040366671,Monthly refinery planned outage for HCU units in Former Soviet Union in kb/d,oil_products
+0,-0.4755643314097524,3.18,8.080056132307483,3922.524755398301,Monthly refinery planned outage for CDU units in Algeria in kb/d,oil_products
+0,-1.3571428571428563,0.28,0.36715495676096527,4367.609497682339,Monthly refinery total outages for CDU units in Philippines in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Myanmar in kb/d,oil_products
+0,-0.05262102430130877,3.62,8.433117397978933,1587.1431740966214,Monthly refinery planned outage for FCC units in Former Soviet Union in kb/d,oil_products
+0,-2.081588669326202,1.54,3.2895472065171316,695771.5352685973,Monthly refinery total outages for CDU units in United States in kb/d,oil_products
+0,0.2310830124463591,0.43,0.5501473621050922,1540.2202482178145,Monthly refinery total outages for HCU units in Former Soviet Union in kb/d,oil_products
+0,-47.405419697954365,12.37,16.346522129232145,17352.2821192233,Monthly refinery planned outage for HT units in Europe in kb/d,oil_products
+0,-0.9678610531273117,0.45,0.46345883414502753,5288.1704731358295,Monthly refinery total outages for CDU units in Singapore in kb/d,oil_products
+0,-0.03459875520053135,1.19,2.323757319408638,375393.6423661614,Monthly refinery total outages for CDU units in China in kb/d,oil_products
+0,-0.06451612903225801,0.06,0.24618298195866548,85.22727272727273,Monthly refinery total outages for CDU units in Ireland in kb/d,oil_products
+0,-1.3137911528549648,0.35,0.3992433046016973,4807.5938936029015,Monthly refinery unplanned outage for CDU units in Africa in kb/d,oil_products
+0,-28.00178814439998,4.12,5.347176135000702,11921.7810073135,Monthly refinery planned outage for CDU units in Syria in kb/d,oil_products
+0,-8.463161438921166,4.1,7.292747023569846,2236025.3661970613,Monthly refinery unplanned outage for all units in Asia Pacific kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Cameroon in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Trinidad and Tobago in kb/d,oil_products
+0,-1.2298975227851145,0.14,0.17413032637551656,545.3869510532654,Monthly refinery total outages for RFMR units in Africa in kb/d,oil_products
+0,-0.06657488635967335,1.71,3.0674919447832774,3994.7311499528682,Monthly refinery planned outage for CDU units in Taiwan in kb/d,oil_products
+0,0.17227524269511896,0.38,0.526197117385037,3178.2461385447887,Monthly refinery total outages for RFMR units in Former Soviet Union in kb/d,oil_products
+0,-1.5181303166960136,0.17,0.20822461530166805,250.04606684321192,Monthly refinery unplanned outage for FCC units in Africa in kb/d,oil_products
+0,0.3354601605937779,0.68,1.7169718163995182,192023.677514416,Monthly refinery total estimated impact in North America in kb/d,oil_products
+0,-0.5822875930634734,0.16,0.20983285672304308,17647.290210428368,Monthly refinery total estimated impact in Africa in kb/d,oil_products
+0,-5.56445222614331,0.04,0.04009215340054726,33.30380183924338,Monthly refinery total outages for CDU units in Bulgaria in kb/d,oil_products
+0,-0.09178957795279419,0.68,0.837293413283134,2243.153524299704,Monthly refinery planned outage for CDU units in Austria in kb/d,oil_products
+0,-312.6649551326855,6.01,7.5185253099201255,85397.30550944457,Monthly refinery planned outage for CDU units in Israel in kb/d,oil_products
+0,-0.4572811117789992,0.23,0.33344639807440324,1936.9278106580907,Monthly refinery planned outage for CDU units in PADD 1 in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Sudan in kb/d,oil_products
+0,0.5938372562964369,0.35,0.41691853345500024,591393.3862416458,Monthly refinery planned outage for all units in North America in kb/d,oil_products
+0,0.1215266820507871,2.66,11.413986232141148,52960.207226042825,Monthly refinery total outages for FCC units in North America in kb/d,oil_products
+0,-0.11032818768827846,2.15,3.380059145111548,5146.147141161005,Monthly refinery total outages for CDU units in Iran in kb/d,oil_products
+0,-0.2696316273105921,0.1,0.15388179702503876,235.39102378736618,Monthly refinery planned outage for RFMR units in Africa in kb/d,oil_products
+0,-0.00681143781560456,0.54,0.6659168384043102,539.3204625375531,Monthly refinery total outages for COK units in Former Soviet Union in kb/d,oil_products
+0,-5.599999999999998,0.23,0.24456864492549235,121.4821384850938,Monthly refinery total outages for CDU units in Bahrain in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Nicaragua in kb/d,oil_products
+0,-0.9323101989411109,0.58,0.6190656902510677,1691.2075384437505,Monthly refinery total outages for CDU units in Hungary in kb/d,oil_products
+0,-0.013760964983547286,1.1,2.2601037006859968,7479.191162594853,Monthly refinery planned outage for CDU units in United Kingdom in kb/d,oil_products
+0,-0.18096135762270715,2.22,3.8203534292948538,6853.611941837669,Monthly refinery planned outage for HT units in Asia Pacific in kb/d,oil_products
+0,-0.0717912385373205,1.23,4.230624043925983,579.1957842209819,Monthly refinery unplanned outage for FCC units in Middle East in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Trinidad and Tobago in kb/d,oil_products
+0,-0.9875084219996306,13.21,23.206843072918915,38088.24542460219,Monthly refinery planned outage for CDU units in PADD 2 in kb/d,oil_products
+0,-1.3859498545388895,4.92,6.82564946388607,2049.9596634554273,Monthly refinery planned outage for CDU units in Iraq in kb/d,oil_products
+0,-0.5377987707528618,2.41,4.322544566106988,30476.898129624733,Monthly refinery planned outage for CDU units in Latin America in kb/d,oil_products
+0,-1.1655735244489516,0.69,0.7981130250529409,1898.9379412622218,Monthly refinery planned outage for CDU units in PADD 4 in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Jamaica in kb/d,oil_products
+0,-0.4457712543035315,0.52,0.6298820610349216,14615.408076164584,Monthly refinery total outages for CDU units in Korea in kb/d,oil_products
+0,-0.09973678742398451,2.81,4.5582408838582245,70.72271796547665,Monthly refinery total outages for HT units in Latin America in kb/d,oil_products
+0,-0.46712841362207325,2.16,4.646347615325849,8659.052216369933,Monthly refinery total estimated impact in PADD 5 in kb/d,oil_products
+0,-0.21805794189488648,0.51,0.650589036065863,658.3300761859532,Monthly refinery planned outage for CDU units in Romania in kb/d,oil_products
+0,-1.9595607244930466,0.45,0.5273401549872808,7953.133485641522,Monthly refinery planned outage for CDU units in Singapore in kb/d,oil_products
+0,-1.5344879753170595,0.46,0.4903026430360089,663133.8141390296,Monthly refinery total outages for CDU units in Former Soviet Union in kb/d,oil_products
+0,-0.030078519869108034,2.34,3.7080309248583103,2934.6203362072442,Monthly refinery total estimated impact in PADD 4 in kb/d,oil_products
+0,-0.3147011478012147,0.16,0.2926270090728757,133.87809989915831,Monthly refinery total outages in HCU units in Africa in kb/d,oil_products
+0,-1.4151278064887647,6.56,15.115723393388503,1187.387766928053,Monthly refinery planned outage for CDU units in Switzerland in kb/d,oil_products
+0,-0.2692307692307687,1.06,2.302830932359191,5658.922558922558,Monthly refinery planned outage for CDU units in Finland in kb/d,oil_products
+0,-0.6902360233488702,0.82,0.9898457931673745,313.2256593791277,Monthly refinery unplanned outage for RFMR units in Middle East in kb/d,oil_products
+0,0.036763533672658055,1.33,2.176509242654375,75520.35745330206,Monthly refinery unplanned outage for CDU units in Asia Pacific in kb/d,oil_products
+0,-9.835563497809423,0.37,0.3823772921648624,7984.8768809069725,Monthly refinery total outages for CDU units in South Africa in kb/d,oil_products
+0,-1.6902729673823549,0.56,0.6158962445693464,11257.935389272543,Monthly refinery planned outage for CDU units in Belarus in kb/d,oil_products
+0,0.29743146395185116,0.86,1.65809443946145,6416.111509492515,Monthly refinery total outages for HCU units in North America in kb/d,oil_products
+0,-0.2483122884051061,1.91,2.882810208226733,2450.473959534084,Monthly refinery total outages for COK units in Middle East in kb/d,oil_products
+0,-0.2512782526832156,0.18,0.20088337754339405,39866.9833432676,Monthly refinery total estimated impact in Latin America in kb/d,oil_products
+0,0.06699597342427532,1.37,5.790302336320318,19853.5029369159,Monthly refinery total outages for RFMR units in North America in kb/d,oil_products
+0,-0.5141803139250014,2.4,3.5117250433677856,11455.215409963555,Monthly refinery total outages for HT units in Asia Pacific in kb/d,oil_products
+0,-0.03641180591558735,4.23,15.252012394474528,7437.58836972898,Monthly refinery planned outage for COK units in Asia Pacific in kb/d,oil_products
+0,-0.1875937801906995,1.39,1.451402151532229,5464.122843793099,Monthly refinery planned outage for CDU units in Sweden in kb/d,oil_products
+0,0.323357275235452,0.59,1.0670917028691802,481182.64654103096,Monthly refinery total outages for CDU units in Asia Pacific in kb/d,oil_products
+0,-0.9219015314946328,0.16,0.17475966007567575,24197.945841348792,Monthly refinery unplanned outage for CDU units in Latin America in kb/d,oil_products
+0,-0.8958257170017248,1.31,2.764071289604297,129611.4815502355,Monthly refinery unplanned outage for CDU units in North America in kb/d,oil_products
+0,-0.5000001857225773,0.05,0.08739049280607686,4.812770356551053,Monthly refinery planned outage for CDU units in Angola in kb/d,oil_products
+0,-0.5000000000000002,2.89,5.003702332976756,68.59135949266748,Monthly refinery planned outage for CDU units in Martinique in kb/d,oil_products
+0,-0.24165176820449097,1.6,2.3416541657531544,3189.416829214366,Monthly refinery planned outage for CDU units in Kuwait in kb/d,oil_products
+0,-0.3750000000000002,0.21,0.39935462248660103,586.3275757575759,Monthly refinery planned outage for CDU units in Serbia in kb/d,oil_products
+0,-0.28473782690895577,2.78,3.309734413227798,218.5637155460256,Monthly refinery total outages for CDU units in Sri Lanka in kb/d,oil_products
+0,-2.6667044709193415,1.78,2.0846399730759817,146.5155584633743,Monthly refinery total outages for CDU units in Niger in kb/d,oil_products
+0,-0.04867197996853623,1.03,1.484269056252386,5760.568013304719,Monthly refinery planned outage for CDU units in Brazil in kb/d,oil_products
+0,-1.382525683598021,0.11,0.12801507901949716,10742.012140981498,Monthly refinery unplanned outage for all units in Africa in kb/d,oil_products
+0,-0.15518564552695402,4.52,9.538099619777507,4135.037145650049,Monthly refinery planned outage for CDU units in Colombia in kb/d,oil_products
+0,0.5740750001562198,1.49,6.286514650035498,486676.56064718904,Monthly refinery planned outage for all units in Europe in kb/d,oil_products
+0,0.48095957023079783,2.26,5.95023255732237,4426.301111976427,Monthly refinery planned outage for RFMR units in North America in kb/d,oil_products
+0,0.39575903517738464,1.58,3.3428170142484483,46118.747979647844,Monthly refinery planned outage for CDU units in PADD 3 in kb/d,oil_products
+0,0.1990442111686379,0.96,2.925301689051455,8192.445059865291,Monthly refinery planned outage for FCC units in Europe in kb/d,oil_products
+0,-0.17714709914764226,1.83,4.371106963366074,2189.498592169699,Monthly refinery unplanned outage for HCU units in North America in kb/d,oil_products
+0,-5.260153755312847,2.54,3.6247883460562136,367592.91879503033,Monthly refinery total outages for OTHER in Former Soviet Union in kb/d,oil_products
+0,-1.292995923662032,0.88,1.3565644407279431,1338.9483517599454,Monthly refinery unplanned outage for HT units in Europe in kb/d,oil_products
+0,-0.7546085375491649,1.3,3.8865321102725594,6099.078319898753,Monthly refinery planned outage for CDU units in PADD 5 in kb/d,oil_products
+0,-0.8228055229080753,0.51,0.5240546204910423,1332.5796991769937,Monthly refinery total outages for CDU units in Croatia in kb/d,oil_products
+0,-0.022224851678505964,0.78,1.3482911187629805,159.12332081363505,Monthly refinery planned outage for ALK units in Middle East in kb/d,oil_products
+0,-0.8647178537417619,0.65,0.7909886613784909,1065.188918430703,Monthly refinery total outages for RFMR units in Latin America in kb/d,oil_products
+0,-307.05679347826066,1.0,1.0,318.34186328017165,Monthly refinery planned outage for CDU units in Gabon in kb/d,oil_products
+0,-2.3000000000000003,0.65,0.7757846646028551,53.91122647895186,Monthly refinery unplanned outage for HT units in Latin America in kb/d,oil_products
+0,-0.09387340007183598,1.98,6.1710602181397505,9070.495302902527,Monthly refinery total outages for COK units in Asia Pacific in kb/d,oil_products
+0,-2.942255132275203,3.17,7.23003043906984,310.62659860427385,Monthly refinery planned outage for HCU units in Africa in kb/d,oil_products
+0,-0.015553521476891152,1.21,2.1595378522697213,1254.2691483266292,Monthly refinery total outages for CDU units in Iraq in kb/d,oil_products
+0,-0.4572762913570001,0.72,0.9006793190491469,161600.07516671496,Monthly refinery total estimated impact in PADD 3 in kb/d,oil_products
+0,0.027702776021177544,0.09,0.12719745110280414,1.7409106349063395,Monthly refinery planned outage for ALK units in Africa in kb/d,oil_products
+0,-0.5000000000000002,2.89,5.003702332976756,68.59135949266748,Monthly refinery total outages for CDU units in Martinique in kb/d,oil_products
+0,-0.014312888823046377,1.2,1.996476362406683,1672.86109957762,Monthly refinery planned outage for COK units in Europe in kb/d,oil_products
+0,-0.2331944782614681,3.3,7.128464639976993,4470.9637907187835,Monthly refinery total outages for CDU units in Algeria in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Ghana in kb/d,oil_products
+0,-1.6485494734600037,1.49,2.384370136015398,581873.7349080159,Monthly refinery total outages for OTHER in Asia Pacific in kb/d,oil_products
+0,-1.1374946912406863,0.51,0.9174039792081958,6.414073017621389,Monthly refinery total outages for ALK units in Former Soviet Union in kb/d,oil_products
+0,-0.5451781250236574,5.65,12.126603440632532,16.750192317607837,Monthly refinery planned outage for CDU units in Libya in kb/d,oil_products
+0,-0.2584887464680852,0.86,1.3055931159766718,31631.50105080098,Monthly refinery total outages for FCC units in Asia Pacific in kb/d,oil_products
+0,-0.06643292984420812,0.41,0.4285057455035572,288.513887656322,Monthly refinery total outages for CDU units in Australia in kb/d,oil_products
+0,0.014694490328815979,3.06,13.58138491591196,19845.33250018395,Monthly refinery planned outage for CDU units in Canada in kb/d,oil_products
+0,0.2165719483918126,1.72,3.357120225215837,4894.755052671989,Monthly refinery planned outage for HCU units in North America in kb/d,oil_products
+0,-0.06650877298034397,1.87,3.587156843229628,124769.02232614794,Monthly refinery planned outage for all units in Latin America in kb/d,oil_products
+0,-7.388947393232533,0.66,0.6587247879132991,2356.836503046752,Monthly refinery unplanned outage for RFMR units in Former Soviet Union in kb/d,oil_products
+0,-0.08523042693300309,0.73,1.1573458913248758,6306.516467103281,Monthly refinery unplanned outage for RFMR units in North America in kb/d,oil_products
+0,-0.16997050436570316,1.79,6.920732019978083,354111.36292269424,Monthly refinery total outages for OTHER in Europe in kb/d,oil_products
+0,-0.4240351111166385,1.58,2.930368897221027,11252.68323826936,Monthly refinery total outages for CDU units in Italy in kb/d,oil_products
+0,0.32312563550832596,0.53,0.9605253803656012,473761.84839057556,Monthly refinery total estimated impact in Asia Pacific in kb/d,oil_products
+0,-0.06442929883218418,1.54,2.2949088148048573,174.74129990160702,Monthly refinery unplanned outage for HT units in North America in kb/d,oil_products
+0,-0.45851896344187004,3.69,11.835890093799257,1950.8513255651646,Monthly refinery total outages for ALK units in North America in kb/d,oil_products
+0,-2.058458737518847,0.6,0.7008077332987684,4109.355784693975,Monthly refinery total outages for CDU units in Sudan in kb/d,oil_products
+0,-0.15225160087485579,1.15,4.675688677036894,987.0722824663347,Monthly refinery planned outage for FCC units in Middle East in kb/d,oil_products
+0,-0.1642723092659486,6.46,10.319239089656113,22.335851473458135,Monthly refinery unplanned outage for ALK units in Middle East in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Zambia in kb/d,oil_products
+0,-0.09975212842413383,2.16,7.521903597415821,1004.4107662135528,Monthly refinery planned outage for CDU units in Argentina in kb/d,oil_products
+0,-2.083206717983637,0.58,0.6012488797096263,1102.9589596273945,Monthly refinery total outages for HT units in Former Soviet Union in kb/d,oil_products
+0,-7.459903123210717,2.72,4.175897300221521,22991.016672806756,Monthly refinery total outages for CDU units in Mexico in kb/d,oil_products
+0,-6.6133619186661035,0.25,0.2567092843685228,419.65827691204885,Monthly refinery unplanned outage for RFMR units in Africa in kb/d,oil_products
+0,-0.5363817771673507,3.4,4.257319311070556,1114.7487782515898,Monthly refinery unplanned outage for HCU units in Former Soviet Union in kb/d,oil_products
+0,-0.5233752884740064,0.96,1.8745395828681952,478916.7772204788,Monthly refinery total estimated impact in Europe in kb/d,oil_products
+0,0.1769233421511094,1.98,6.775919118968096,6240.822364931167,Monthly refinery planned outage for CDU units in Germany in kb/d,oil_products
+0,-0.42807349430707786,3.29,8.632221465530622,1820.4613167407251,Monthly refinery planned outage for CDU units in Poland in kb/d,oil_products
+0,-0.8180448906593227,1.0,1.7443535196513373,4283.42449499787,Monthly refinery unplanned outage for HCU units in Europe in kb/d,oil_products
+0,-1.5535626519284613,0.33,0.4125576042599232,651.9751137878962,Monthly refinery planned outage for FCC units in Africa in kb/d,oil_products
+0,-10.781647517610507,4.85,6.82388872940276,24186.122675813986,Monthly refinery unplanned outage for FCC units in Latin America in kb/d,oil_products
+0,-4.762870246439661,0.22,0.2381142969996671,34196.20725236252,Monthly refinery total outages for CDU units in Venezuela in kb/d,oil_products
+0,-31.999999999999993,0.11,0.11422890362882103,122.19998108031453,Monthly refinery planned outage for CDU units in Azerbaijan in kb/d,oil_products
+0,-0.38125421770738277,1.25,1.35537734364046,6661.259028548058,Monthly refinery total outages for CDU units in Sweden in kb/d,oil_products
+0,-0.19644643452915278,1.97,2.9259590762471066,169610.84533751608,Monthly refinery total outages for CDU units in Middle East in kb/d,oil_products
+0,0.23356010364564328,1.31,3.897708355057916,14700.563680769152,Monthly refinery total estimated impact in PADD 2 in kb/d,oil_products
+0,-39.43114762484177,27.37,79.82819917345918,174024.18116939842,Monthly refinery total outages for CDU units in Colombia in kb/d,oil_products
+0,-0.09396652330593169,1.17,2.9494408111009167,194.39776438077402,Monthly refinery planned outage for ALK units in Asia Pacific in kb/d,oil_products
+0,-16.006172129630986,89.81,94.51548633937716,5354.941683773664,Monthly refinery total outages for CDU units in Bolivia in kb/d,oil_products
+0,-0.69029822624412,0.48,0.5569419322276856,19798.835685889444,Monthly refinery unplanned outage for FCC units in North America in kb/d,oil_products
+0,-0.2853342592260941,1.56,2.482117320843673,36039.339659879624,Monthly refinery planned outage for CDU units in India in kb/d,oil_products
+0,-0.5392736328194772,1.89,7.295002032655223,841663.1012410695,Monthly refinery unplanned outage for all units in North America in kb/d,oil_products
+0,-4.933590187853361,0.14,0.14501644501333474,115.83168574401664,Monthly refinery planned outage for CDU units in Korea in kb/d,oil_products
+0,-2.0767746938154006,0.33,0.36624127079085184,116203.55671866656,Monthly refinery total outages for CDU units in Latin America in kb/d,oil_products
+0,-0.33447309508404244,0.84,2.9504761645895012,8777.407478883313,Monthly refinery total outages for HCU units in Europe in kb/d,oil_products
+0,0.0266576759100281,1.42,2.3286181880899317,2254.526967134363,Monthly refinery total outages for COK units in Europe in kb/d,oil_products
+0,-0.14171242057442912,1.64,5.891529435958748,407.82827918449146,Monthly refinery planned outage for CDU units in Ecuador in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Nigeria in kb/d,oil_products
+0,-7.47869097214223,2.19,3.6172673925485386,9232.824622946284,Monthly refinery total outages for HT units in Europe in kb/d,oil_products
+0,0.46940674550247674,1.07,2.9388325114283917,85409.07667304434,Monthly refinery planned outage for CDU units in North America in kb/d,oil_products
+0,-1.2635521407784696,0.64,0.7184158748362257,17800.83569051314,Monthly refinery planned outage for CDU units in Turkey in kb/d,oil_products
+0,-0.007876901759605648,12.74,23.605192431443147,9197.967765008827,Monthly refinery planned outage for CDU units in Indonesia in kb/d,oil_products
+0,-0.6201710363974788,1.2,1.701852104974526,1988.8094331567174,Monthly refinery total outages for CDU units in Belgium in kb/d,oil_products
+0,-0.375655012640866,1.36,2.061225061458207,359.19653045235424,Monthly refinery total outages for HT units in North America in kb/d,oil_products
+0,-0.20378732817334466,1.06,1.6481090724494587,22064.4122283073,Monthly refinery planned outage for FCC units in Asia Pacific in kb/d,oil_products
+0,-0.4277262496183061,0.15,0.26510069434049416,1377.4030729113072,Monthly refinery planned outage for CDU units in Venezuela in kb/d,oil_products
+0,-111.80301321456918,42.19,67.45190962689986,21498.296700476396,Monthly refinery total outages for ALK units in Latin America in kb/d,oil_products
+0,-0.3621530581923509,0.21,0.3974762956651377,580.8493821241376,Monthly refinery total outages for CDU units in Serbia in kb/d,oil_products
+0,-0.20087476588488284,1.46,2.287816020488438,2574.8660011059105,Monthly refinery total outages for FCC units in PADD 1 in kb/d,oil_products
+0,-2.7919112003163846,0.88,0.8952802893957668,712.1926639803955,Monthly refinery total outages for HCU units in Latin America in kb/d,oil_products
+0,-2.1655790621122373,1.44,1.7909927821286054,7307.027906536751,Monthly refinery total outages for CDU units in Vietnam in kb/d,oil_products
+0,0.05311988493396502,3.25,9.12887685306707,284.1325234498274,Monthly refinery total outages for FCC units in PADD 4 in kb/d,oil_products
+0,0.19975094301950724,1.19,3.481048327102184,16347.272727539195,Monthly refinery total outages for CDU units in PADD 2 in kb/d,oil_products
+0,-1.576445346421925,5.9,11.401225742596692,26839.89102466706,Monthly refinery total outages for CDU units in Netherlands in kb/d,oil_products
+0,-5.56445222614331,0.04,0.04009215340054726,33.30380183924338,Monthly refinery planned outage for CDU units in Bulgaria in kb/d,oil_products
+0,-4.352679265450882,2.09,2.3623396241957937,3980.923886804219,Monthly refinery planned outage for CDU units in Hungary in kb/d,oil_products
+0,-0.03990391082573508,0.8,1.51642946376977,1160.9541161064928,Monthly refinery planned outage for CDU units in Thailand in kb/d,oil_products
+0,-3.931375131804418,6.12,8.085980671706427,18191.902859715294,Monthly refinery planned outage for CDU units in France in kb/d,oil_products
+0,-0.0707462886080008,2.34,4.237001522165192,3043.3614522565977,Monthly refinery planned outage for FCC units in Latin America in kb/d,oil_products
+0,-2.743036225288394,1.67,3.2428196169084793,136.37032841350612,Monthly refinery planned outage for CDU units in Jordan in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Bosnia and Herzegovina in kb/d,oil_products
+0,-0.34897973626548895,0.3,0.5252076286401177,757.6724616963951,Monthly refinery planned outage for CDU units in Greece in kb/d,oil_products
+0,-0.803804914827903,3.8,9.322185803441458,3479.4204170180183,Monthly refinery total outages for HCU units in Middle East in kb/d,oil_products
+0,-0.0007656683553221022,2.12,3.9865450037902024,101700.79677993365,Monthly refinery unplanned outage for all units in Middle East in kb/d,oil_products
+0,-0.1407944073183487,0.32,0.3696866783383033,2745.928065089073,Monthly refinery total outages for CDU units in Norway in kb/d,oil_products
+0,-1.9408173460636609,5.83,11.692104885067733,1302.6331596225875,Monthly refinery planned outage for CDU units in Peru in kb/d,oil_products
+0,-0.6170032579115292,0.17,0.211359258542881,18041.996021870575,Monthly refinery total outages in CDU units in Africa in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for HCU units in Latin America in kb/d,oil_products
+0,0.14118771819167286,0.85,1.493565400565762,8522.501785046627,Monthly refinery planned outage for RFMR units in Asia Pacific in kb/d,oil_products
+0,-0.5000001857225773,0.05,0.08739049280607686,4.812770356551053,Monthly refinery total outages for CDU units in Angola in kb/d,oil_products
+0,-0.1335024773980964,1.29,3.582183336695622,648.1098143074056,Monthly refinery planned outage for COK units in Former Soviet Union in kb/d,oil_products
+0,-0.26923076923076894,0.85,1.8422647458873531,339.3939393939394,Monthly refinery planned outage for CDU units in Uruguay in kb/d,oil_products
+0,-0.5972649700476451,0.91,1.2371558054167886,881.7983769712387,Monthly refinery unplanned outage for HCU units in Asia Pacific in kb/d,oil_products
+0,0.6595259873026429,1.1,2.082423628432347,10286.091869680993,Monthly refinery planned outage for FCC units in North America in kb/d,oil_products
+0,-4.030157338328064,1.74,2.057313391465496,323.8447053290448,Monthly refinery planned outage for COK units in Africa in kb/d,oil_products
+0,-6.4156829320264235,1.0,1.0,16.627250654305804,Monthly refinery planned outage for CDU units in Yemen in kb/d,oil_products
+0,-0.10605639663658639,0.05,0.14722596204552552,21.311034076671056,Monthly refinery unplanned outage for HCU units in Africa in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Myanmar in kb/d,oil_products
+0,-0.06121199211856587,0.8,1.5919614604677153,5086.271247641879,Monthly refinery unplanned outage for COK units in North America in kb/d,oil_products
+0,-5.194666088969706,2.99,5.289066793381397,12296.903737730943,Monthly refinery total outages for COK units in Latin America in kb/d,oil_products
+0,-0.11348006622783102,0.62,0.8323839145496794,555.7249354241358,Monthly refinery total outages for CDU units in Romania in kb/d,oil_products
+0,-0.07740192288118619,3.23,5.863557763710287,61446.09781713675,Monthly refinery planned outage for CDU units in Saudi Arabia in kb/d,oil_products
+0,0.521203591981619,2.79,9.550354304105431,18596.845092660573,Monthly refinery planned outage for CDU units in Japan in kb/d,oil_products
+0,-0.17010576379369047,3.2,4.767577423905251,3415.9184185803124,Monthly refinery total outages for RFMR units in Middle East in kb/d,oil_products
+0,-0.031300998142464564,0.75,0.8657411525058876,959.839485776186,Monthly refinery total outages for CDU units in Egypt in kb/d,oil_products
+0,-2.0777744913482166,1.33,2.4332592269681417,948471.3458582679,Monthly refinery total outages for CDU units in Europe in kb/d,oil_products
+0,0.4902457222157953,1.86,7.188369280382282,89463.32635843834,Monthly refinery planned outage for CDU units in Europe in kb/d,oil_products
+0,-0.6925977047638743,3.84,13.21407188047265,4394.6957851397065,Monthly refinery planned outage for CDU units in Spain in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Cuba in kb/d,oil_products
+0,0.4054460314185594,0.66,1.042942863694735,34407.147586381885,Monthly refinery planned outage for CDU units in Russia in kb/d,oil_products
+0,-6.737161576842758,1.49,1.565008017776512,502.44362480213925,Monthly refinery planned outage for HT units in North America in kb/d,oil_products
+0,-0.047376918045906935,4.29,18.094163530077253,757.6603413049521,Monthly refinery planned outage for COK units in Latin America in kb/d,oil_products
+0,-0.3339592166006693,0.61,0.7475271141976809,2754.3906991080758,Monthly refinery total outages for CDU units in Austria in kb/d,oil_products
+0,-1.1374282326854468,2.92,4.345081217229358,311332.5225371512,Monthly refinery total estimated impact in Middle East in kb/d,oil_products
+0,-0.1353326863343649,2.16,3.198366014212459,1993.8939346433547,Monthly refinery planned outage for COK units in Middle East in kb/d,oil_products
+0,-0.8621441310077005,0.7,0.7736548713362371,922208.6641249545,Monthly refinery planned outage for CDU units in Asia Pacific in kb/d,oil_products
+0,0.01589046684639006,1.86,3.7865781305477717,736.6321205669591,Monthly refinery total outages for CDU units in Czechia in kb/d,oil_products
+0,-0.16180875454544164,0.58,0.7221408981480569,164.91138961907652,Monthly refinery total outages for ALK units in Europe in kb/d,oil_products
+0,-2.774344925993227,0.72,0.7766272955115581,8712.22710347522,Monthly refinery planned outage for CDU units in Vietnam in kb/d,oil_products
+0,-0.09914777352427562,1.84,3.239695810628025,4404.373979225371,Monthly refinery total outages for CDU units in Taiwan in kb/d,oil_products
+0,-2.3647267048858853,4.78,12.003958592892866,2186.711901457965,Monthly refinery unplanned outage for RFMR units in Asia Pacific in kb/d,oil_products
+0,-5.221123389498317e-05,12.65,23.595445246664518,9664.022942380792,Monthly refinery total outages for CDU units in Indonesia in kb/d,oil_products
+0,-1.1837505881776114,1.68,3.594068668345654,80648.70007956465,Monthly refinery total outages for OTHER in Latin America in kb/d,oil_products
+0,-1.0438155404254639,3.34,4.928341819269641,40149.3459473056,Monthly refinery total outages for CDU units in France in kb/d,oil_products
+0,-0.5775643766359251,1.92,3.5913865750677765,1329.6199993624484,Monthly refinery planned outage for CDU units in Kazakhstan in kb/d,oil_products
+0,-0.5270763357170334,0.97,1.174275513271658,897.8602130917219,Monthly refinery total outages for CDU units in Ecuador in kb/d,oil_products
+0,-1.7389112903208335,1.34,1.6334661840238578,78.99981080309026,Monthly refinery planned outage for CDU units in Congo in kb/d,oil_products
+0,-0.127035402263606,0.14,0.1810437276832603,8374.886795742017,Monthly refinery planned outage for CDU units in Africa in kb/d,oil_products
+0,-1.3616265362003972,2.75,5.495393389921803,553.1702754490829,Monthly refinery unplanned outage for ALK units in North America in kb/d,oil_products
+0,-0.039020740946908106,0.17,0.2080731238614728,3.2529288031327255,Monthly refinery total outages for ALK units in Africa in kb/d,oil_products
+0,-0.10735171489502315,2.16,3.381376393525142,5155.174756019264,Monthly refinery planned outage for CDU units in Iran in kb/d,oil_products
+0,-1.4151278064887647,6.56,15.115723393388503,1187.387766928053,Monthly refinery total outages for CDU units in Switzerland in kb/d,oil_products
+0,-0.19898552111876655,0.5,0.9900160538975552,245419.15308317955,Monthly refinery unplanned outage for all units in Europe in kb/d,oil_products
+0,-0.006475632385846586,1.57,2.641154413388126,1420.0657086650947,Monthly refinery total outages for CDU units in Pakistan in kb/d,oil_products
+0,-2.335498846567134,0.77,0.7734268879426062,3028.5358872106426,Monthly refinery unplanned outage for FCC units in Former Soviet Union in kb/d,oil_products
+0,-393.73494781440166,10.89,12.389977582257613,443557.20954122057,Monthly refinery total outages for CDU units in United Arab Emirates in kb/d,oil_products
+0,-0.9548032975685958,0.43,0.5095987674111786,6181.238705997445,Monthly refinery total outages for FCC units in Former Soviet Union in kb/d,oil_products
+0,-0.15803948941792711,0.11,0.2646945473948042,161.11868949642104,Monthly refinery unplanned outage for COK units in Former Soviet Union in kb/d,oil_products
+0,-0.013146251129098507,4.63,12.31621010190591,1782.5097809597669,Monthly refinery total outages for FCC units in Middle East in kb/d,oil_products
+0,0.2022372188382503,0.66,1.121881051438772,9845.934846911729,Monthly refinery total outages for RFMR units in Asia Pacific in kb/d,oil_products
+0,-0.05542556462325443,3.36,8.521634449499,3197.811726187957,Monthly refinery total outages for FCC units in PADD 5 in kb/d,oil_products
+0,-1.7500000000000004,0.64,0.7977240352174656,4872.159090909091,Monthly refinery planned outage for CDU units in Brunei in kb/d,oil_products
+0,-0.1482826497054266,0.46,0.7269965288951713,46898.865797153754,Monthly refinery unplanned outage for CDU units in Europe in kb/d,oil_products
+0,0.4538818045263,0.74,1.1624073557911663,163972.84517859522,Monthly refinery planned outage for all units in Former Soviet Union in kb/d,oil_products
+0,-31.999999999999993,0.11,0.11422890362882103,122.19998108031453,Monthly refinery total outages for CDU units in Azerbaijan in kb/d,oil_products
+0,-0.16523968820105095,0.13,0.1580772114388696,23184.757261283357,Monthly refinery planned outage for all units in Africa in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery total outages for CDU units in Nicaragua in kb/d,oil_products
+0,-0.1642104234444679,0.42,0.5730076710905232,1105.4221763250027,Monthly refinery total estimated impact in PADD 1 in kb/d,oil_products
+0,0.016193533988910103,2.73,4.753322546428319,28332.095634815865,Monthly refinery total outages for CDU units in India in kb/d,oil_products
+0,-5.200095576820889,6.14,26.26701830012694,4032.2556841729815,Monthly refinery unplanned outage for COK units in Latin America in kb/d,oil_products
+0,-0.851094224638471,1.97,5.4648799953605245,5776.561022881812,Monthly refinery unplanned outage for FCC units in Europe in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery planned outage for CDU units in Bolivia in kb/d,oil_products
+0,-0.04893032109681861,1.08,1.9604427368380732,1200.213441034747,Monthly refinery unplanned outage for RFMR units in Europe in kb/d,oil_products
+0,-1.661511568471799,0.08,0.07874024839405323,1.356104930373984,Monthly refinery total outages for CDU units in Chad in kb/d,oil_products
+0,-1.9408173460636609,5.83,11.692104885067733,1302.6331596225875,Monthly refinery total outages for CDU units in Peru in kb/d,oil_products
+0,-0.7028274363860669,21.35,41.77774300188889,29172.86703166739,Monthly refinery total outages for CDU units in Malaysia in kb/d,oil_products
+0,-0.6500000000000004,0.62,0.9937726978963423,3.6995869201904585,Monthly refinery total outages for CDU units in Yemen in kb/d,oil_products
+0,-2.623007158334364,0.42,0.4670738984670053,6713.161413599147,Monthly refinery planned outage for CDU units in Philippines in kb/d,oil_products
+0,-130.05985486537392,10.12,17.79298274754179,584336.2666950396,Monthly refinery total outages for CDU units in Finland in kb/d,oil_products
+0,-0.42732908807178616,1.73,3.032858497988467,899.4472803249663,Monthly refinery total outages for CDU units in Slovakia in kb/d,oil_products
+0,0.5453173807832676,0.54,0.8556866780163188,34972.998779672576,Monthly refinery planned outage for CDU units in Former Soviet Union in kb/d,oil_products
+0,-0.14907632993496156,2.72,4.1926691040153194,25878.911378803055,Monthly refinery total outages for CDU units in Kuwait in kb/d,oil_products
+0,-0.015204819475981068,1.31,1.6766523269262639,973.5181412865047,Monthly refinery planned outage for CDU units in Egypt in kb/d,oil_products
+0,-0.7812011200199145,0.53,0.6165185535604827,1208.7723127484771,Monthly refinery total outages for COK units in Africa in kb/d,oil_products
+0,-0.44935165039223945,0.74,1.8318919301996524,71.93947592327271,Monthly refinery planned outage for CDU units in Uzbekistan in kb/d,oil_products
+0,-0.31428139676974576,3.75,6.4831768901609275,2634.9431567495985,Monthly refinery unplanned outage for CDU units in Canada in kb/d,oil_products
+0,-0.5473672918323167,1.09,2.3817019064327565,89027.2791056463,Monthly refinery unplanned outage for CDU units in United States in kb/d,oil_products
+0,-73.62635583438858,2.02,2.187428792783006,15376.831747710587,Monthly refinery unplanned outage for CDU units in Oman in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Bahrain in kb/d,oil_products
+0,-28.525857041058924,62.59,104.09806221086976,721937.3854749948,Monthly refinery unplanned outage for CDU units in Kuwait in kb/d,oil_products
+0,-2489.0285026044135,10.63,11.95600370654242,380449.908692853,Monthly refinery unplanned outage for CDU units in United Arab Emirates in kb/d,oil_products
+0,-0.34996812766155605,1.77,2.7662244585162625,1321.5063784902268,Monthly refinery unplanned outage for CDU units in Iraq in kb/d,oil_products
+0,-1.0623458666634789,0.05,0.06559749265263548,9.408011995584243,Monthly refinery unplanned outage for CDU units in Norway in kb/d,oil_products
+0,-0.14351268590468846,0.46,0.8103095509554639,102.04296464471281,Monthly refinery unplanned outage for CDU units in Denmark in kb/d,oil_products
+0,-1.5451266024376986,1.0,1.0,7068.282561585331,Monthly refinery unplanned outage for CDU units in Sweden in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Bosnia and Herzegovina in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Albania in kb/d,oil_products
+0,-0.9418261421443146,0.41,0.4579809572866175,230.56110595241944,Monthly refinery unplanned outage for CDU units in Hungary in kb/d,oil_products
+0,-175.1346600740696,13.5,19.63751663771371,61921.6972746726,Monthly refinery unplanned outage for CDU units in Czechia in kb/d,oil_products
+0,-0.1076579033819296,1.34,2.010258660326436,184.96482105331162,Monthly refinery unplanned outage for CDU units in Slovakia in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Finland in kb/d,oil_products
+0,-0.06451612903225801,0.06,0.24618298195866548,85.22727272727273,Monthly refinery unplanned outage for CDU units in Ireland in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Portugal in kb/d,oil_products
+0,-0.21444959961434384,0.12,0.2032402589459955,192.97923153342936,Monthly refinery unplanned outage for CDU units in Greece in kb/d,oil_products
+0,-0.43478260869565166,0.15,0.27356604711557647,198.86325907600326,Monthly refinery unplanned outage for CDU units in Turkey in kb/d,oil_products
+0,-0.16127645962818482,0.83,1.5095958738962938,1421.359927748759,Monthly refinery unplanned outage for CDU units in Spain in kb/d,oil_products
+0,-0.41803241187691453,0.93,1.4573230393261998,1892.1037471168725,Monthly refinery unplanned outage for CDU units in United Kingdom in kb/d,oil_products
+0,-0.0299939217770131,0.91,1.4376794747808501,765.5870595042019,Monthly refinery unplanned outage for CDU units in Poland in kb/d,oil_products
+0,-3.2902334411096197,7.83,14.73521328558498,15056.926351826574,Monthly refinery unplanned outage for CDU units in Italy in kb/d,oil_products
+0,-4.128267897532164,5.78,9.71820078728188,24002.102328821617,Monthly refinery unplanned outage for CDU units in Netherlands in kb/d,oil_products
+0,-0.15801463519721692,1.63,3.7267949704125876,3078.4856470540562,Monthly refinery unplanned outage for CDU units in Germany in kb/d,oil_products
+0,-16.328883687591183,8.32,11.989191247065282,285284.176962801,Monthly refinery unplanned outage for CDU units in France in kb/d,oil_products
+0,-0.4519981627679961,0.31,0.43526423690311633,156.8572844828451,Monthly refinery unplanned outage for CDU units in Romania in kb/d,oil_products
+0,-0.15302139638126522,0.19,0.5830617388121238,72.87164387053642,Monthly refinery unplanned outage for CDU units in Belgium in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Dominican Republic in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Curacao in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Cuba in kb/d,oil_products
+0,-15.057964069381995,1.0,1.0,244.08994545454547,Monthly refinery unplanned outage for CDU units in Chile in kb/d,oil_products
+0,-0.31199101018472986,1.19,5.234784580803456,364.74436313577996,Monthly refinery unplanned outage for CDU units in Argentina in kb/d,oil_products
+0,-6.146428471435973,1.38,2.8162592676077938,9127.362928893039,Monthly refinery unplanned outage for CDU units in Mexico in kb/d,oil_products
+0,-2.269968464855367,8.87,14.778571054519661,718.6296719911147,Monthly refinery unplanned outage for CDU units in Brazil in kb/d,oil_products
+0,-3.207586899994154,1.75,2.5929239030939573,9943.688443105184,Monthly refinery unplanned outage for CDU units in Colombia in kb/d,oil_products
+0,-2.016922303646877,0.15,0.1592282897161246,15553.248117946721,Monthly refinery unplanned outage for CDU units in Venezuela in kb/d,oil_products
+0,-0.14067607262699844,0.93,0.9968148887115034,3349.7561562872147,Monthly refinery unplanned outage for CDU units in Indonesia in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Korea in kb/d,oil_products
+0,-15.793700365096292,5.66,6.655859621982558,39284.57784123763,Monthly refinery unplanned outage for CDU units in Malaysia in kb/d,oil_products
+0,-6.040768491467544,3.29,4.294298871336074,1108.5114937145675,Monthly refinery unplanned outage for CDU units in India in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Australia in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Thailand in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Philippines in kb/d,oil_products
+0,-5.8547701729008566,4.5,8.392038818064638,39280.081449671685,Monthly refinery unplanned outage for CDU units in Japan in kb/d,oil_products
+0,-0.1883621057523719,2.27,3.453011527541172,723.035671663504,Monthly refinery unplanned outage for CDU units in Pakistan in kb/d,oil_products
+0,-0.8022839831951782,0.48,0.5919764022896638,69329.07216367633,Monthly refinery unplanned outage for CDU units in China in kb/d,oil_products
+0,-1.059584440286176,0.24,0.2818412633339951,3873.2783401128872,Monthly refinery unplanned outage for CDU units in Belarus in kb/d,oil_products
+0,-0.9694819448803147,11.84,31.210563361313454,169725.73385673919,Monthly refinery unplanned outage for CDU units in Russia in kb/d,oil_products
+0,-16.408985416473648,12.79,16.350014402742353,13918.563105801437,Monthly refinery unplanned outage for CDU units in Kazakhstan in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Niger in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Tunisia in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Chad in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Ghana in kb/d,oil_products
+0,1.0,0.0,0.0,0.0,Monthly refinery unplanned outage for CDU units in Cameroon in kb/d,oil_products
+0,-1.0138307884829132,2.28,3.6901178432361346,5162.132343846629,Monthly refinery unplanned outage for CDU units in Libya in kb/d,oil_products
+0,-0.03124896378459696,0.01,0.05155453191113753,83.8308447220098,Monthly refinery unplanned outage for CDU units in South Africa in kb/d,oil_products
+0,-0.7368421052631584,0.36,0.5543654067411237,6284.407214706903,Monthly refinery unplanned outage for CDU units in Algeria in kb/d,oil_products
+0,-0.5349414995629227,3.42,7.721479481215438,5839.5422090383145,Monthly refinery total outages for CDS units in World in kb/d,oil_products
+0,-0.5682447125440775,0.94,1.521875254281426,4881.104077517762,Monthly refinery total outages for ALK units in World in kb/d,oil_products
+0,0.06041425990920002,0.53,0.7494217301624585,10913.639820305161,Monthly refinery total outages for HT units in World in kb/d,oil_products
+0,0.2244286749268014,0.21,0.2757947930363264,32280.636615526313,Monthly refinery total outages for COK units in World in kb/d,oil_products
+0,0.5060028469695428,0.22,0.3478869069713769,44347.9439101381,Monthly refinery total outages for RFMR units in World in kb/d,oil_products
+0,0.35538709742160957,0.17,0.23960193996051918,1942183.5133312298,Monthly refinery total outages for CDU units in World in kb/d,oil_products
+0,0.17080581781490545,0.4,0.6516673316115676,50275.14092906908,Monthly refinery total outages for HCU units in World in kb/d,oil_products
+0,0.23833952213376786,0.24,0.27439605522016614,145645.5355861673,Monthly refinery total outages for FCC units in World in kb/d,oil_products
+0,-0.0036574835328313515,0.23,0.33596280779453214,3236.4702648307357,Monthly oil sands mined production in Canada: CNRL Horizon in kb/d,crude_oil
+0,-1.2023972716353306,0.17,0.17899238147666546,3008.6054631898223,Monthly oil sands mined production in Canada: Imperial Kearl in kb/d,crude_oil
+0,-2.050645659206971,0.18,0.19100304124895148,1509.8683627849832,Monthly oil sands mined production in Canada: Shell Albaian Sands in kb/d,crude_oil
+0,-0.03428572275650521,0.15,0.26993649546260906,543.8849727727843,Monthly oil sands mined production in Canada: Shell Jackpine in kb/d,crude_oil
+0,-0.1336392109138529,0.26,0.49775049547088623,3724.93242056831,Monthly oil sands mined production in Canada: Suncor Base Plant in kb/d,crude_oil
+0,-0.018908763215673252,0.21,0.5104924334554618,1383.9886565438962,Monthly oil sands mined production in Canada: Syncrude Aurora in kb/d,crude_oil
+0,-0.1381146746785782,0.18,0.22524821920629098,1144.4805311240348,Monthly oil sands mined production in Canada: Syncrude Mildred Lake in kb/d,crude_oil
+0,-0.9986366380194731,0.28,0.4360762185101323,2234.6399889886056,Monthly oil sands mined production in Canada: Suncor Fort Hills in kb/d,crude_oil
+0,0.15486513520114265,0.24,0.3608950391661181,2589.679308691861,Monthly oil sands synthetic crude production in Canada: CNRL Horizon in kb/d,crude_oil
+0,-1.422180309017441,0.12,0.13206516558639012,1668.7121653374888,Monthly oil sands synthetic crude production in Canada: Shell Scotford in kb/d,crude_oil
+0,-0.03858717847743054,0.25,0.4622377063365399,5186.358592442956,Monthly oil sands synthetic crude production in Canada: Suncor Base Plant in kb/d,crude_oil
+0,-0.26805199176566963,0.16,0.18861735449392814,2882.5365627485567,Monthly oil sands synthetic crude production in Canada: Syncrude Mildred Lake in kb/d,crude_oil
+0,-0.11284408224134457,0.28,0.5425835278584762,86.19372773335658,Monthly oil sands synthetic crude production in Canada: NWR Sturgeon in kb/d,crude_oil
+0,-0.9005215328559235,0.03,0.034403668613469135,2345.003334953052,Monthly oil sands in situ crude production in Canada: Athabasca in kb/d,crude_oil
+0,0.06408490537955491,0.05,0.058827443619162374,346.35668130103295,Monthly oil sands in situ crude production in Canada: Cold Lake in kb/d,crude_oil
+0,-0.053238149685105096,0.05,0.07107621082488347,2.9010573295408277,Monthly oil sands in situ crude production in Canada: Peace River in kb/d,crude_oil
+0,0.9023453104482737,0.05,0.06500609961670221,13.52276614156763,Monthly oil sands in situ crude production in Canada: smaller plays (combined) in kb/d,crude_oil
+0,-0.03733285860372426,0.59,0.8753160213866313,230.18718114699817,Daily power generation in Canada: Suncor Base plant in MW,power
+0,-0.24936103180010893,0.24,0.5817113101385744,1815.1697530864199,Daily power generation in Canada: CNRL Horizon in MW,power
+0,-1.1914478821560661,0.21,0.3220792291093664,8700.336844894551,Daily power generation in Canada: Syncrude upgraders in MW,power
+0,0.006156442647989979,0.1,0.2254481876353521,496.70565822249927,Daily power generation in Canada: Suncor Fort Hills in MW,power
+0,-0.7860742031351229,0.41,0.7281942588549181,487.28826019955255,Daily power generation in Canada: Imperial Kearl in MW,power
+0,-0.09721523396319665,0.25,1.0348798439361053,665.1113867045223,Daily power generation in Canada: Shell Scotford in MW,power
+0,0.035003726328249996,0.21,0.5750694985349084,5163.5282709381345,Daily power generation in Canada: Suncor Firebag in MW,power
+0,-0.02464924539107849,0.19,0.3747107356373167,210.77906421497144,Daily power generation in Canada: Cenovus Foster Creek in MW,power
+0,-0.6217728761702637,0.11,0.1890328957721494,405.6954701049241,Daily power generation in Canada: MEG Christina Lake in MW,power
+0,-1.6695567296926437,0.12,0.14697601871709487,46404.330265918376,Monthly gasoline demand in Middle East in kb/d,oil_products
+0,-0.07662209877640236,0.06,0.06952801956727203,12786.527690915233,Monthly diesel demand in Middle East in kb/d,oil_products
+0,-0.4925897177766301,0.1,0.11988483155645785,27524.358473063097,Monthly fuel oil demand in Middle East in kb/d,oil_products
+0,-1.4848303772385507,0.52,0.8193057763002288,36173.24754176432,Monthly jet/kero demand in Middle East in kb/d,oil_products
+0,0.5633158802954974,0.05,0.06507351927365966,24928.65545570976,Monthly diesel supply in Middle East in kb/d,oil_products
+0,-1.032530589647437,0.11,0.128649263540321,44621.88905553112,Monthly gasoline supply in Middle East in kb/d,oil_products
+0,-1.4674986125525562,0.3,0.38753213654443985,71857.22590324529,Monthly jet/kero supply in Middle East in kb/d,oil_products
+0,-7.426531500673104,0.27,0.30632540160273714,78929.74259030216,Monthly refinery runs in United Arab Emirates in kb/d,oil_products
+0,-0.2105328343850914,0.09,0.18725861637248617,811.3977345639698,Monthly refinery runs in Israel in kb/d,oil_products
+0,-1.5998385903801444,0.18,0.21311607045078942,24892.615524365185,Monthly refinery runs in Iraq in kb/d,oil_products
+0,-3.180828493278299,0.16,0.1711528610604004,123463.91291776634,Monthly refinery runs in Iran in kb/d,oil_products
+0,-1.6197375815490904,0.48,0.6247049748270194,319.51108139048785,Monthly refinery runs in Jordan in kb/d,oil_products
+0,-0.22269356586508948,0.25,0.2981509107430704,68454.11537864438,Monthly refinery runs in Kuwait in kb/d,oil_products
+0,-0.02609003976175117,0.17,0.23225080504782125,4471.178789646955,Monthly refinery runs in Oman in kb/d,oil_products
+0,-0.8920114728297697,0.12,0.163932032802349,2338.8521661700793,Monthly refinery runs in Qatar in kb/d,oil_products
+0,-0.2646628325217788,0.09,0.11758533866779099,75061.14877988982,Monthly refinery runs in Saudi Arabia in kb/d,oil_products
+0,-1.4929521935552494,0.45,0.6286148949459399,1868.3778401162563,Monthly refinery runs in Syria in kb/d,oil_products
+0,-0.9506379008707233,0.11,0.13384614888375967,1067371.0656602515,Monthly refinery runs in Middle East in kb/d,oil_products
+0,-1.4624144555766252,0.2,0.21310265176049709,25.827084270671666,Monthly refinery runs in Yemen in kb/d,oil_products
+0,-36.642829153472256,0.15,0.1628229116502177,1165073.2750822883,Monthly total Africa crude production in kb/d (includes field condensate),crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Algeria in kb/d,crude_oil
+0,-7.196572060761316,0.06,0.06773194771869948,10039.115384615385,Monthly crude oil production quota in OPEC+: Angola in kb/d,crude_oil
+0,-12.0,0.11,0.11445983557186735,1005.2307692307693,Monthly crude oil production quota in OPEC+: Congo in kb/d,crude_oil
+0,-3.428571428571428,0.56,0.6410573885219157,2013.6774193548388,Monthly crude oil production quota in OPEC+: Equatorial Guinea in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Gabon in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Iraq in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Kuwait in kb/d,crude_oil
+0,-2.6666666666666665,0.12,0.1375855289548206,42592.0,Monthly crude oil production quota in OPEC+: Nigeria in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Saudi Arabia in kb/d,crude_oil
+0,-1.6788340693108181,0.06,0.08086621282521458,75895.0,Monthly crude oil production quota in OPEC+: United Arab Emirates in kb/d,crude_oil
+0,-2.603862180032865,0.05,0.05298939669185444,1605935.9090909092,Monthly crude oil production quota in OPEC members in kb/d,crude_oil
+0,-2.6666666666666665,0.18,0.20584896751576182,12864.727272727272,Monthly crude oil production quota in OPEC+: Azerbaijan in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Bahrain in kb/d,crude_oil
+0,-2.6666666666666665,0.12,0.1438462664567974,142.54545454545453,Monthly crude oil production quota in OPEC+: Brunei in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Kazakhstan in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Oman in kb/d,crude_oil
+0,-2.6666666666666665,0.3,0.3530306126187664,20040.727272727272,Monthly crude oil production quota in OPEC+: Malaysia in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: Mexico in kb/d,crude_oil
+0,-2.666666666666667,0.04,0.04534452867710038,203520.72727272726,Monthly crude oil production quota in OPEC+: Russia in kb/d,crude_oil
+0,1.0,0.0,0.0,0.0,Monthly crude oil production quota in OPEC+: South Sudan in kb/d,crude_oil
+0,-2.6666666666666674,0.09,0.10660035817780522,46.54545454545455,Monthly crude oil production quota in OPEC+: Sudan in kb/d,crude_oil
+0,0.5549384767128138,0.02,0.01832202118012569,484379.0086060354,Monthly crude oil production quota in OPEC+ members in kb/d,crude_oil
+0,0.5341413802682569,0.02,0.01854351756205366,66760.23525742503,Monthly crude oil production quota in Non-OPEC members in kb/d,crude_oil
+0,0.08928401852322043,0.05,0.0719037554084458,950466.6265753553,Monthly total products demand in China in kb/d,oil_products
+0,-0.001557973863688611,0.19,0.2595696282308319,2581.8914839296135,Monthly VGO exports from Former Soviet Union in kb/d,oil_products
+0,-14.275027943671507,1.0,1.0,745.9162766058083,Monthly refinery planned outage for FCC units in Turkmenistan in kb/d,oil_products
+0,-3789.533834586473,1.0,1.0,1541.525557342415,Monthly refinery planned outage for CDU units in Turkmenistan in kb/d,oil_products
+0,-7626.124999999996,1.0,1.0,3123.75164983165,Monthly refinery unplanned outage for VHT units in Ukraine in kb/d,oil_products
+0,-7626.12499999999,1.0,1.0,673.3597306397306,Monthly refinery unplanned outage for HT units in Ukraine in kb/d,oil_products
+0,-3789.533834586473,1.0,1.0,1541.525557342415,Monthly refinery total outages for CDU units in Turkmenistan in kb/d,oil_products
+0,-7626.124999999996,1.0,1.0,3123.75164983165,Monthly refinery total outages for VHT units in Ukraine in kb/d,oil_products
+0,-4.659200322301154,1.0,1.0,1366.2297127361019,Monthly refinery total outages for all units in Turkmenistan in kb/d,oil_products
+0,-7626.12499999999,1.0,1.0,673.3597306397306,Monthly refinery total outages for HT units in Ukraine in kb/d,oil_products
+0,-14.275027943671507,1.0,1.0,745.9162766058083,Monthly refinery total outages for FCC units in Turkmenistan in kb/d,oil_products
